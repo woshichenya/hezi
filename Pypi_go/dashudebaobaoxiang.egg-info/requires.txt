@@ -1,0 +1,9 @@
+selenium
+wheel
+xlwt
+pymysql
+smtplib
+pillow
+pytesseract
+requests
+traceback
