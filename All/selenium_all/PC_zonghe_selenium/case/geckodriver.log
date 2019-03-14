@@ -1,0 +1,1613 @@
+1542889602509	geckodriver	INFO	geckodriver 0.21.0
+1542889602519	geckodriver	INFO	Listening on 127.0.0.1:27639
+1542889605548	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.6TbfdfU5cTnI"
+1542889607912	Marionette	INFO	Listening on port 27676
+1542889608272	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-wchen.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1542889676788"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542889690845"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542889690845"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542889690845"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542889690845"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542889693014"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542889693014"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542889702432"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542889702432"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542889702432"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542889702432"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542889702432"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542889704342"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542889704342"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542889704342"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542889704342"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542890316418"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542890316418"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/clipboard.min.js?v=1542890316418"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1542890316418"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1542890375248"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1542890387619"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1542890503879	geckodriver	INFO	geckodriver 0.21.0
+1542890503889	geckodriver	INFO	Listening on 127.0.0.1:36182
+1542890506904	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.hcY15pQZzjdQ"
+1542890509902	Marionette	INFO	Listening on port 36219
+1542890510251	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-wchen.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1542890579920"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542890579920"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542890594757"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542890594757"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542890594757"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542890594757"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542890594757"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542890612219"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542890612219"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542890612219"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542890612219"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-wchen.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542890612219"
+http://requirejs.org/docs/errors.html#scripterror
+1542890703064	geckodriver	INFO	geckodriver 0.21.0
+1542890703074	geckodriver	INFO	Listening on 127.0.0.1:38156
+1542890706093	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.qGuAqUDSyjxS"
+1542890708440	Marionette	INFO	Listening on port 38194
+1542890708819	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542890715637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542890715637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542890715637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542890715637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542890715637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542890729212"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542890729212"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542890729212"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542890729212"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542890729212"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542890735092"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542890735092"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542890735092"
+http://requirejs.org/docs/errors.html#scripterror
+1542891003010	geckodriver	INFO	geckodriver 0.21.0
+1542891003019	geckodriver	INFO	Listening on 127.0.0.1:41082
+1542891006055	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.FRWlvw4NvAyy"
+1542891008420	Marionette	INFO	Listening on port 41119
+1542891008783	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542891015799"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542891015799"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542891015799"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542891015799"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542891015799"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542891030040"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542891030040"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542891030040"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542891030040"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542891036275"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542891036275"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542891036275"
+http://requirejs.org/docs/errors.html#scripterror
+1542891136312	geckodriver	INFO	geckodriver 0.21.0
+1542891136322	geckodriver	INFO	Listening on 127.0.0.1:42418
+1542891310713	geckodriver	INFO	geckodriver 0.21.0
+1542891310724	geckodriver	INFO	Listening on 127.0.0.1:44042
+1542891313757	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.EHqoEeagopXL"
+1542891315966	Marionette	INFO	Listening on port 44079
+1542891315978	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542891474160	geckodriver	INFO	geckodriver 0.21.0
+1542891474170	geckodriver	INFO	Listening on 127.0.0.1:45623
+1542891477183	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.dPR8SNXyee5n"
+1542891479522	Marionette	INFO	Listening on port 45658
+1542891479896	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542891519200"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542891519200"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542891519200"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542891519200"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542891519200"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542891520204"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542891520204"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542891520204"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542891520204"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542891520204"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542891526189"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542891526189"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542891526189"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542891526189"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542891526189"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542891527170"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542891527170"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542891527170"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542891527170"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542891527170"
+http://requirejs.org/docs/errors.html#scripterror
+1542891759085	geckodriver	INFO	geckodriver 0.21.0
+1542891759095	geckodriver	INFO	Listening on 127.0.0.1:48370
+1542891762121	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.hrqn5LLJxZoR"
+1542891764614	Marionette	INFO	Listening on port 48405
+1542891764910	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542892031760	geckodriver	INFO	geckodriver 0.21.0
+1542892031769	geckodriver	INFO	Listening on 127.0.0.1:50986
+1542892034819	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.oxn32CXfc4wM"
+1542892037195	Marionette	INFO	Listening on port 51025
+1542892037538	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+ya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromJavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542892489779"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542892489779"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542892489779"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542892489779"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542892489779"
+http://requirejs.org/docs/errors.html#scripterror
+1542892630107	geckodriver	INFO	geckodriver 0.21.0
+1542892630128	geckodriver	INFO	Listening on 127.0.0.1:56898
+1542892633088	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.QWCZRTyb5a9b"
+1542892635517	Marionette	INFO	Listening on port 56935
+1542892635828	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542892687180	geckodriver	INFO	geckodriver 0.21.0
+1542892687191	geckodriver	INFO	Listening on 127.0.0.1:57477
+1542892690222	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.EmDwzE0et7EH"
+1542892692391	Marionette	INFO	Listening on port 57514
+1542892692463	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542892950273	geckodriver	INFO	geckodriver 0.21.0
+1542892950283	geckodriver	INFO	Listening on 127.0.0.1:60001
+1542892953314	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.HeisWx7Wy3If"
+1542892955393	Marionette	INFO	Listening on port 60039
+1542892955432	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+1542893061972	geckodriver	INFO	geckodriver 0.21.0
+1542893061982	geckodriver	INFO	Listening on 127.0.0.1:61085
+1542893065004	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.1gfAs6nM2oD5"
+1542893067134	Marionette	INFO	Listening on port 61122
+1542893067215	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+1542893655736	geckodriver	INFO	geckodriver 0.21.0
+1542893655746	geckodriver	INFO	Listening on 127.0.0.1:65067
+1542893658761	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.MJGtQLKbKFRS"
+1542893661147	Marionette	INFO	Listening on port 65094
+1542893661584	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542893848265	geckodriver	INFO	geckodriver 0.21.0
+1542893848275	geckodriver	INFO	Listening on 127.0.0.1:1557
+1542893851274	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.DLUIh1qrsUoD"
+1542893853080	Marionette	INFO	Listening on port 1580
+1542893853384	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542894042484	geckodriver	INFO	geckodriver 0.21.0
+1542894042494	geckodriver	INFO	Listening on 127.0.0.1:2604
+1542894045489	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.KbvsNXyUQ728"
+1542894047519	Marionette	INFO	Listening on port 2627
+1542894047637	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1542894593982	geckodriver	INFO	geckodriver 0.21.0
+1542894593991	geckodriver	INFO	Listening on 127.0.0.1:5402
+1542894597017	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.UAyy91o2a1BD"
+1542894599531	Marionette	INFO	Listening on port 5420
+1542894599727	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+[Child 13120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1542895110930	geckodriver	INFO	geckodriver 0.21.0
+1542895110940	geckodriver	INFO	Listening on 127.0.0.1:8058
+1542895113965	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.w70tdQtxf0xX"
+1542895116117	Marionette	INFO	Listening on port 8081
+1542895116209	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542895244123"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542895244123"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1542895244123"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542895244123"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542895244123"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/clipboard.min.js?v=1542895244123"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542895244123"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.validate.min.js?v=1542895266276"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1542895350590	geckodriver	INFO	geckodriver 0.21.0
+1542895350600	geckodriver	INFO	Listening on 127.0.0.1:9285
+1542895353633	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.VLLSwZPPsHxO"
+1542895355621	Marionette	INFO	Listening on port 9303
+1542895355746	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542895532644	geckodriver	INFO	geckodriver 0.21.0
+1542895532654	geckodriver	INFO	Listening on 127.0.0.1:10221
+1542895535685	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.3236roEPKBY9"
+1542895537659	Marionette	INFO	Listening on port 10244
+1542895537800	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542895707791	geckodriver	INFO	geckodriver 0.21.0
+1542895707801	geckodriver	INFO	Listening on 127.0.0.1:11119
+1542895710839	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.9cHQgBBKvcrq"
+1542895713720	Marionette	INFO	Listening on port 11137
+1542895714054	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542896079569	geckodriver	INFO	geckodriver 0.21.0
+1542896079579	geckodriver	INFO	Listening on 127.0.0.1:12959
+1542896082580	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.GN8e5Y91awE4"
+1542896084529	Marionette	INFO	Listening on port 12982
+1542896084691	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1542896278214	geckodriver	INFO	geckodriver 0.21.0
+1542896278224	geckodriver	INFO	Listening on 127.0.0.1:13967
+1542896281213	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.sCToxcEMKBe5"
+1542896282953	Marionette	INFO	Listening on port 13990
+1542896283325	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1542896325746"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1542896332270"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542896344637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542896344637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542896344637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542896344637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542896344637"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542896349120"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542896349120"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542896349120"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542896447679"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542896447679"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542896447679"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542896447679"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mp\\rust_mozprofile.RDjw3VHiv3pJ"
+1542897355431	Marionette	INFO	Listening on port 19273
+1542897355655	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542897419068	geckodriver	INFO	geckodriver 0.21.0
+1542897419079	geckodriver	INFO	Listening on 127.0.0.1:19640
+1542897422126	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.GykhbdBNzHGb"
+1542897424481	Marionette	INFO	Listening on port 19663
+1542897424838	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542897665211	geckodriver	INFO	geckodriver 0.21.0
+1542897665221	geckodriver	INFO	Listening on 127.0.0.1:20870
+1542897668244	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.GlBlqhewg8nB"
+1542897670269	Marionette	INFO	Listening on port 20893
+1542897670514	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542897919884	geckodriver	INFO	geckodriver 0.21.0
+1542897919894	geckodriver	INFO	Listening on 127.0.0.1:22175
+1542897922905	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.xPxACc2Shy7P"
+1542897925956	Marionette	INFO	Listening on port 22198
+1542897926245	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542897958070"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 12456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chroUnable to read VR Path Registry from C:\Users\chenya\Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+09: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://xiao.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://xiao.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://xiao.vdongchina.com
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+s._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chroUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript erroUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542898816592"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542898816592"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1542899085301"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542899103894"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542899103894"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542899103894"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542899103894"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542899103894"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1542908602503	geckodriver	INFO	geckodriver 0.21.0
+1542908602513	geckodriver	INFO	Listening on 127.0.0.1:8919
+1542908605545	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.zaDAP9YZ3rZj"
+1542908611249	Marionette	INFO	Listening on port 8943
+1542908611496	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542911250493	geckodriver	INFO	geckodriver 0.21.0
+1542911250502	geckodriver	INFO	Listening on 127.0.0.1:21479
+1542911253547	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.HBsyT1sGmhNZ"
+1542911255565	Marionette	INFO	Listening on port 21498
+1542911255669	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+1542913344279	geckodriver	INFO	geckodriver 0.21.0
+1542913344289	geckodriver	INFO	Listening on 127.0.0.1:31363
+1542913347322	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Q7NJeZIQvA1Y"
+1542913351987	Marionette	INFO	Listening on port 31386
+1542913352249	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1542913393734"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1542913400837"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542913415063"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542913415063"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1542913415063"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542913415063"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542913415063"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1542913420160"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1542913420160"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1542913420160"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1542913420160"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543802353032	geckodriver	INFO	geckodriver 0.21.0
+1543802353063	geckodriver	INFO	Listening on 127.0.0.1:2867
+1543802356119	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.8sN81JPGqiqs"
+1543802359474	Marionette	INFO	Listening on port 2875
+1543802359507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543802546537	geckodriver	INFO	geckodriver 0.21.0
+1543802546547	geckodriver	INFO	Listening on 127.0.0.1:3003
+1543802549597	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.p6qVRVx3zufr"
+1543802551846	Marionette	INFO	Listening on port 3011
+1543802552316	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1543803238455	geckodriver	INFO	geckodriver 0.21.0
+1543803238465	geckodriver	INFO	Listening on 127.0.0.1:3146
+1543803241505	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.aYCuYbpzIBBZ"
+1543803244982	Marionette	INFO	Listening on port 3155
+1543803245357	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543803354301	geckodriver	INFO	geckodriver 0.21.0
+1543803354311	geckodriver	INFO	Listening on 127.0.0.1:3199
+1543803357341	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.33odYrAtUB2Z"
+1543803359178	Marionette	INFO	Listening on port 3211
+1543803359456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543817777837	geckodriver	INFO	geckodriver 0.21.0
+1543817777847	geckodriver	INFO	Listening on 127.0.0.1:6342
+1543817780879	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.KzDb5anIDooB"
+1543817783420	Marionette	INFO	Listening on port 6350
+1543817783607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543818102168	geckodriver	INFO	geckodriver 0.21.0
+1543818102178	geckodriver	INFO	Listening on 127.0.0.1:6488
+1543818105189	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.MSfbgORukrU7"
+1543818107502	Marionette	INFO	Listening on port 6497
+1543818107999	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Task cancelled"
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+[Child 5068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1543823921967	geckodriver	INFO	geckodriver 0.21.0
+1543823921977	geckodriver	INFO	Listening on 127.0.0.1:8062
+1543823924964	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.3X1Wj9bQTQxz"
+1543823931965	Marionette	INFO	Listening on port 8071
+1543823932016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543824333391	geckodriver	INFO	geckodriver 0.21.0
+1543824333401	geckodriver	INFO	Listening on 127.0.0.1:8259
+1543824336443	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.lEd0uoAEdLWf"
+1543824338511	Marionette	INFO	Listening on port 8267
+1543824338573	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1543824400767"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1543824400767"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1543824400767"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1543824400767"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1543824400767"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1543824414597"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 6392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1543976427936	geckodriver	INFO	geckodriver 0.21.0
+1543976427969	geckodriver	INFO	Listening on 127.0.0.1:2775
+1543976430911	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Pr3YOmOVXPrM"
+1543976438220	Marionette	INFO	Listening on port 2783
+1543976438887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543981057275	geckodriver	INFO	geckodriver 0.21.0
+1543981057285	geckodriver	INFO	Listening on 127.0.0.1:3706
+1543981060331	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.ZnA7YSu0SK55"
+1543981063099	Marionette	INFO	Listening on port 3714
+1543981063123	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1543981734378	geckodriver	INFO	geckodriver 0.21.0
+1543981734388	geckodriver	INFO	Listening on 127.0.0.1:3932
+1543981737427	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.yHKev5pSUCTT"
+1543981739826	Marionette	INFO	Listening on port 3941
+1543981740165	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543989518314	geckodriver	INFO	geckodriver 0.21.0
+1543989518324	geckodriver	INFO	Listening on 127.0.0.1:5186
+1543989521341	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.hvdSWWUgb4TF"
+1543989523336	Marionette	INFO	Listening on port 5195
+1543989523513	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/srUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5941543990759761	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.fsLefHJl4fny"
+1543990761623	Marionette	INFO	Listening on port 5468
+1543990761875	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543991870084	geckodriver	INFO	geckodriver 0.21.0
+1543991870094	geckodriver	INFO	Listening on 127.0.0.1:9396
+1543991873107	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.UGCNaoP1hEEC"
+1543991875078	Marionette	INFO	Listening on port 9419
+1543991875283	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, liUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543993202057	geckodriver	INFO	geckodriver 0.21.0
+1543993202067	geckodriver	INFO	Listening on 127.0.0.1:15919
+1543993205101	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.OsoopwLHzbcf"
+1543993211581	Marionette	INFO	Listening on port 15942
+1543993211968	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2520, Ge1543993394594	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.2kTY8tSgWxgZ"
+1543993396534	Marionette	INFO	Listening on port 16887
+1543993396707	Marionette	WARN	TLS certificate errors will be ignored for this session
+ath
+[Child 9976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543993500630	geckodriver	INFO	geckodriver 0.21.0
+1543993500640	geckodriver	INFO	Listening on 127.0.0.1:17421
+1543993504326	geckodriver	INFO	geckodriver 0.21.0
+1543993504336	geckodriver	INFO	Listening on 127.0.0.1:17438
+1543993507348	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.EZ1CPv8yUrd9"
+1543993509213	Marionette	INFO	Listening on port 17461
+1543993509476	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/components/ueditor/ueditor.all.min.js?v=20161011, line 9: Error: The load https://test-sso-xiao.vdongchina.com/web/resource/components/ueditor/third-party/codemirror/codemirror.js fails,check the url settings of file ueditor.config.js 
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/components/ueditor/ueditor.all.min.js?v=20161011, line 9: Error: The load https://test-sso-xiao.vdongchina.com/web/resource/components/ueditor/third-party/codemirror/codemirror.css fails,check the url settings of file ueditor.config.js 
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+[Child 10428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544009492316	geckodriver	INFO	geckodriver 0.21.0
+1544009492336	geckodriver	INFO	Listening on 127.0.0.1:29919
+1544009495307	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.W1duD637dSuI"
+1544009498769	Marionette	INFO	Listening on port 29942
+1544009498805	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1446: TypeError: this._tabPool is null
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ip1544010591176	Marionette	INFO	Listening on port 35188
+1544010591766	Marionette	WARN	TLS certificate errors will be ignored for this session
+hs.vrpath
+[Parent 4284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544010810297	geckodriver	INFO	geckodriver 0.21.0
+1544010810307	geckodriver	INFO	Listening on 127.0.0.1:36279
+1544010813334	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.o1vDJqwCR3sB"
+1544010815336	Marionette	INFO	Listening on port 36297
+1544010815464	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+[Child 9008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR PUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544011481518	geckodriver	INFO	geckodriver 0.21.0
+1544011481528	geckodriver	INFO	Listening on 127.0.0.1:39583
+1544011484596	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.d8Dk9xg6zx5w"
+1544011486758	Marionette	INFO	Listening on port 39606
+1544011486891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544011659667	geckodriver	INFO	geckodriver 0.21.0
+1544011659677	geckodriver	INFO	Listening on 127.0.0.1:40456
+1544011662697	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.kHPdaGFjAL0X"
+1544011664707	Marionette	INFO	Listening on port 40480
+1544011664820	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9428, Chrome_Chil1544012843239	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.U8YjiBMMqlhQ"
+1544012845085	Marionette	INFO	Listening on port 46159
+1544012845363	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11080, Chrom1544013543773	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.TIm9n7Sx58Yb"
+1544013545773	Marionette	INFO	Listening on port 49478
+1544013545948	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11744, Chrome_1544013641879	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Iv7MtKI30OV4"
+1544013643778	Marionette	INFO	Listening on port 49988
+1544013644006	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544015453810	geckodriver	INFO	geckodriver 0.21.0
+1544015453819	geckodriver	INFO	Listening on 127.0.0.1:59028
+1544015456798	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.xiJIKhkPjsmX"
+1544015461915	Marionette	INFO	Listening on port 59053
+1544015462229	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544015644007	geckodriver	INFO	geckodriver 0.21.0
+1544015644018	geckodriver	INFO	Listening on 127.0.0.1:59987
+1544015647050	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.1wJxVzALa44u"
+1544015649235	Marionette	INFO	Listening on port 60010
+1544015649391	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://test-sso-xiao.vdongchina.com
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544092090489	geckodriver	INFO	geckodriver 0.21.0
+1544092090500	geckodriver	INFO	Listening on 127.0.0.1:1605
+1544092093522	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.JbUqumlLjIuO"
+1544092096196	Marionette	INFO	Listening on port 1633
+1544092096472	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+[Child 2884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1544584107420	geckodriver	INFO	geckodriver 0.21.0
+1544584107446	geckodriver	INFO	Listening on 127.0.0.1:9302
+1544584110560	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.xRi06pxyC7vX"
+1544584115167	Marionette	INFO	Listening on port 9316
+1544584115854	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&do=user_manage&m=meepo_xianchang, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.v1544584359695	Marionette	INFO	Listening on port 9752
+1544584359955	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+[Child 9804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i1544584518372	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.lEMfndXPj2xR"
+1544584520950	Marionette	INFO	Listening on port 10032
+1544584521111	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: angular
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+[Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544586351758	geckodriver	INFO	geckodriver 0.21.0
+1544586351768	geckodriver	INFO	Listening on 127.0.0.1:12774
+1544586354810	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.JrxDjOP6tSTE"
+1544586357482	Marionette	INFO	Listening on port 12786
+1544586357523	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: angular
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: angular
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: angular
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: angular
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: angular
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: angular
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544683789150	geckodriver	INFO	geckodriver 0.21.0
+1544683789179	geckodriver	INFO	Listening on 127.0.0.1:39210
+1544683792271	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.IPC3NEfamYA6"
+1544683796187	Marionette	INFO	Listening on port 39234
+1544683796753	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: ueditor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: resource/components/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: resource/components/ueditor/ueditor.config.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: ueditor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: resource/components/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: resource/components/ueditor/ueditor.config.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: ueditor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: resource/components/ueditor/ueditor.config.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: resource/components/ueditor/ueditor.config.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: resource/components/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: ueditor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: resource/components/ueditor/ueditor.config.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: loadcss
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: jquery.jplayer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: ueditor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=jb_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544685847090	geckodriver	INFO	geckodriver 0.21.0
+1544685847100	geckodriver	INFO	Listening on 127.0.0.1:46529
+1544685850110	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.zfzubanGxryY"
+1544685852469	Marionette	INFO	Listening on port 46548
+1544685852896	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+1544686155177	geckodriver	INFO	geckodriver 0.21.0
+1544686155187	geckodriver	INFO	Listening on 127.0.0.1:47638
+1544686158201	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.E3YaCCPrVQ4T"
+1544686160766	Marionette	INFO	Listening on port 47656
+1544686160992	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+r returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544687009307	geckodriver	INFO	geckodriver 0.21.0
+1544687009317	geckodriver	INFO	Listening on 127.0.0.1:50759
+1544687012321	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Dpf7MgFzC22O"
+1544687014714	Marionette	INFO	Listening on port 50777
+1544687015127	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+1544688242642	geckodriver	INFO	geckodriver 0.21.0
+1544688242652	geckodriver	INFO	Listening on 127.0.0.1:55120
+1544688245647	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.S7nx0Sm2bEUC"
+1544688248341	Marionette	INFO	Listening on port 55138
+1544688248466	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+1544688598239	geckodriver	INFO	geckodriver 0.21.0
+1544688598249	geckodriver	INFO	Listening on 127.0.0.1:56410
+1544688601255	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.38mLFlU4CkOP"
+1544688603626	Marionette	INFO	Listening on port 56428
+1544688603973	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: colorpicker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/resource/js/require.js?v=20170209, line 8: Error: Script error for: webuploader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=site&a=entry&id=32&op=post&do=xc_manage&m=meepo_xianchang, line 1: ReferenceError: formcheck is not defined
+1545037542592	geckodriver	INFO	geckodriver 0.21.0
+1545037542612	geckodriver	INFO	Listening on 127.0.0.1:33914
+1545037545453	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.zaTTbxjK7nnX"
+1545037550930	Marionette	INFO	Listening on port 33937
+1545037550980	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=module&a=manage-account&, line 851: ReferenceError: angular is not defined
+1545037720916	geckodriver	INFO	geckodriver 0.21.0
+1545037720926	geckodriver	INFO	Listening on 127.0.0.1:34857
+1545037723962	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.jvSxEwHOBn0M"
+1545037726044	Marionette	INFO	Listening on port 34881
+1545037726143	Marionette	WARN	TLS certificate errors will be ignored for this session

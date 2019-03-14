@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
+    <title>永久免费的公众号运营助手-微小宝</title>
+    <link rel="icon" href="//s.weituibao.com//static/1507619175211/favicon.ico">
+    <link rel="stylesheet" href="/passport/css/app.css?v=1.6.6">
+    <script src="/plugins/jquery-1.10.2.min.js"></script>
+    <script src="/passport/js/app.js?v=1.6.1"></script>
+</head>
+<body>
+    <div class="nologin-wrap">
+        <section class="main-area login-form-wrap">
+  <!--logo-->
+  <div class="logo text-right"><a href="//account.wxb.com/signup?from=https%3A%2F%2Fdata.wxb.com%2Fdetails%2FpostRead%3Fid%3Dgh_363b924965e9&source=">免费注册</a></div>
+
+  <!--login-->
+  <div class="login">
+    <div class="clearfix">
+        <h2 class="col-12 text-center active" onclick="changeLoginMethod(this, 1)" id="wechat_login_anchor">微信登录</h2>
+        <h2 class="col-12 text-center" onclick="changeLoginMethod(this, 2)" id="other_login_anchor">账号登录</h2>
+    </div>
+
+    <div id="qrcode" class="qrcode text-center">
+      <img id="wxqrcode" src="" alt="二维码" width="220" height="220">
+      <div class="form-group feature" style="padding: 0 45px; margin: 8px 0;">
+        <div class="auto-login fl">
+          <input type="checkbox"  id="qrcode_remember" >
+          <label></label>
+          <label for="qrcode_remember" style="
+              position: static;
+              width: auto;
+              border: none;
+              transform: translateY(0);
+          ">下次自动登录</label>
+        </div>
+        <p class="fr">微信扫一扫登录</p>
+      </div>
+              <p>登录即表示您已同意《<a href="//www.wxb.com/tos?type=reg" target="_blank">服务条款</a>》和《<a href="//www.wxb.com/tos?type=share" target="_blank">结算协议</a>》</p>
+            </div>
+
+    <form style="display: none;" id="login_form" method="post">
+
+      <div class="form-group with-icon">
+        <div style="position: relative">
+          <img class="icon" src="//s.weituibao.com/static/2sscq.png">
+          <input id="email" type="text" name="email" autofocus placeholder="输入您的手机号/邮箱" value="">
+        </div>
+        <div style="display: none;" class="error-tips" id="email_err">请输入正确的手机号</div>
+      </div>
+
+      <div class="form-group with-icon">
+        <div style="position: relative;">
+          <img class="icon" src="//s.weituibao.com/static/i4kkm.png">
+          <input id="password" type="password" name="password" placeholder="输入您的密码">
+        </div>
+        <div style="display: none;" class="error-tips" id="password_err">请输入正确的密码</div>
+      </div>
+
+      <div style="display: none;" class="form-group captcha-wrap">
+        <input id="captcha" type="text" name="captcha" placeholder="输入图形验证码">
+        <img id="captcha_img" src="" alt="验证码" width="80" height="30">
+        <button type="button" onclick="refreshCheck();">看不清?换一张</button>
+        <div style="display: none;" class="error-tips" id="captcha_err">请输入正确的验证码</div>
+      </div>
+
+      <div class="form-group">
+                    <p style="margin: 5px 0;">登录即表示您已同意《<a href="//www.wxb.com/tos?type=reg" target="_blank">服务条款</a>》和《<a href="//www.wxb.com/tos?type=share" target="_blank">结算协议</a>》</p>
+                  <button class="btn primary bold" id="submit" type="submit">立即登录</button>
+        <div style="display: none;" class="error-tips">登录失败，请稍候再试</div>
+      </div>
+
+      <div class="form-group feature">
+        <div class="auto-login fl"><input type="checkbox" name="remember" ><label></label>下次自动登录</div>
+        <a class="forget-pwd fr" href="//account.wxb.com/findpassword?from=https%3A%2F%2Fdata.wxb.com%2Fdetails%2FpostRead%3Fid%3Dgh_363b924965e9">忘记密码</a>
+      </div>
+    </form>
+
+    <div style="display: none;" class="other-login text-center">
+      <div class="line"></div>
+      <p>第三方登录</p>
+      <a href="https://account.wxb.com/oauth/qqlogin?action=login&from=https%3A%2F%2Fdata.wxb.com%2Fdetails%2FpostRead%3Fid%3Dgh_363b924965e9"><img class="third-platform-logo" src="//s.weituibao.com/static/su75t.png" alt="qq-logo" width="40"></a>
+    </div>
+  </div>
+
+</section>
+
+        <!--copyright-->
+                <section class="copyright-area text-center">Copyright © 2014-2018 杭州推宝科技有限公司 All Rights Reserved | 浙ICP备: 14031293号-1</section>
+            </div>
+    <script type="text/javascript">
+  var captchaUrl = 'http://account.wxb.com/captcha';
+  var loginApi = '//account.wxb.com/login?from=https%3A%2F%2Fdata.wxb.com%2Fdetails%2FpostRead%3Fid%3Dgh_363b924965e9';
+  var getWxQrcodeApi = '//account.wxb.com/oauth/wxqrcode';
+  var checkWxAuthApi = '//account.wxb.com/oauth/wxlogin';
+
+  var showCaptcha = false;
+
+  var authTimer = null;
+
+
+  function changeLoginMethod(e, type) {
+    $('h2').removeClass('active');
+    $(e).addClass('active');
+    if (type == 1) {
+      $('#qrcode').show();
+      $('#login_form, .other-login').hide();
+    } else {
+      $('#qrcode').hide();
+      $('#login_form, .other-login').show();
+    }
+  }
+
+  function refreshCheck(){ //刷新验证码框
+    $('#captcha_img').attr('src', captchaUrl + '?t=' + new Date().getTime());
+    $('#captcha').val('').focus();
+  }
+
+  ['#email', '#password', '#captcha'].forEach(function (el, index) {
+    $(el).keyup(function (e) {
+      if (e.keyCode != 13) {
+        $(this).removeClass('error');
+        $('.error-tips').eq(index).hide();
+      }
+    })
+  });
+
+  $('#login_form').submit(function () {
+    if ($('#submit').attr('disabled')) {
+      return false;
+    }
+
+    var data = $('#login_form').serialize();
+
+    var email = $('#email').val().trim();
+    var pwd = $('#password').val();
+    var captcha = $('#captcha').val();
+
+    if (!email.length) {
+      $('#email_err').text('请输入正确的账号').show();
+      $('#email').addClass('error').focus();
+      return false;
+    } else if (pwd.length <= 1) {
+      $('#password_err').text('请输入正确的密码').show();
+      $('#password').addClass('error').focus();
+      return false;
+    } else if (showCaptcha && !validRule.isCaptcha(captcha)) {
+      $('#captcha_err').text('请输入正确的验证码').show();
+      $('#captcha').addClass('error').focus();
+      return false;
+    }
+
+    var from = getQueryString('from');
+    if (from) {
+      data += '&from=' + encodeURIComponent(from);
+    }
+
+    // 禁用按钮
+    $('#submit').attr('disabled', 'disabled');
+
+    $.post(loginApi, data, function () {}, 'json')
+      .done(function (res) {
+        $('#submit').removeAttr('disabled');
+        if (res.error == 0) {
+          window.location.href = res.url;
+        } else {
+          if (res.logintimes > 3) {
+            showCaptcha = true;
+             ();
+            $('.captcha-wrap').show();
+          }
+          setError(res.error + 1, res.message); // 2018.10.30 因为扫二维码区域加了一个form-group类，所以这里要+1，否则为 res.error
+        }
+      })
+      .fail(function () {
+        $('#submit').removeAttr('disabled');
+        setError(5, '登录失败，请稍候再试');  // 2018.10.30 因为扫二维码区域加了一个form-group类，所以这里要+1，否则为 4
+      })
+
+    return false;
+  })
+
+  function getWxQrcode () {
+    $.post(getWxQrcodeApi, { m: 'login' }, function () { }, 'json')
+      .done(function (res) {
+        if (res.errcode) {
+
+        } else {
+          clearInterval(authTimer);
+          $('#wxqrcode').attr('src', '//mp.weixin.qq.com/cgi-bin/showqrcode?ticket=' + res.ticket);
+          // authTimer = setInterval(function () {
+          //   checkWxAuth(res.ticket);
+          // }, 2000);
+          checkWxAuth(res.ticket);
+        }
+      })
+  }
+
+  getWxQrcode();
+
+  function checkWxAuth (ticket) { // 检查扫码
+    $.get(checkWxAuthApi, { ticket: ticket, from: encodeURIComponent(getQueryString('from') || ''), timestamp: (new Date()).getTime(), remember: $('#qrcode_remember').is(':checked') ? 1 : 0 }, function () {}, 'json')
+      .done(function (res) {
+        if (res.errcode) {
+          // clearInterval(authTimer);
+          return;
+        } else if (res.user_id != -1) { // 判断已扫码
+          // clearInterval(authTimer);
+
+          if (res.user_id == 0) {
+            window.location.href = "http://account.wxb.com/linkaccount?platform=wechat&from=https%3A%2F%2Fdata.wxb.com%2Fdetails%2FpostRead%3Fid%3Dgh_363b924965e9"
+          } else {
+            window.location.href = res.url;
+          }
+          return;
+        }
+        setTimeout(function () {
+          checkWxAuth(ticket);
+        }, 2000)
+      })
+      .fail(function () {
+        // clearInterval(authTimer);
+        setTimeout(function () {
+          checkWxAuth(ticket);
+        }, 2000)
+      })
+  }
+
+</script>
+</body>
+</html>
+</html>

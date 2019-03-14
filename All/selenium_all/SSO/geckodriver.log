@@ -1,0 +1,455 @@
+1540869541057	geckodriver	INFO	geckodriver 0.21.0
+1540869541066	geckodriver	INFO	Listening on 127.0.0.1:4418
+1540869544078	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.njcChpNDHg98"
+1540869548725	Marionette	INFO	Listening on port 4428
+1540869548929	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8616, Ch1540869616016	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.4u0x7nXjxW1c"
+1540869618011	Marionette	INFO	Listening on port 4502
+1540869618148	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+ol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540869997529	geckodriver	INFO	geckodriver 0.21.0
+1540869997539	geckodriver	INFO	Listening on 127.0.0.1:4891
+1540870000604	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.wvmUmKfcDzua"
+1540870003396	Marionette	INFO	Listening on port 4899
+1540870003829	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpatUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1540870177598	geckodriver	INFO	geckodriver 0.21.0
+1540870177607	geckodriver	INFO	Listening on 127.0.0.1:5034
+1540870180612	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.6vwEC23r531X"
+1540870182788	Marionette	INFO	Listening on port 5043
+1540870182950	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1540871797457	geckodriver	INFO	geckodriver 0.21.0
+1540871797467	geckodriver	INFO	Listening on 127.0.0.1:5611
+1540871800497	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.uHyWq1CxyAKW"
+1540871802789	Marionette	INFO	Listening on port 5620
+1540871802848	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxErUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+na.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+[Child 9576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line1540879452343	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=wxapp, line 1: SyntaxError: expected expression, got '<'
+[Child 10288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8616, Chrome_ChildThreUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540880180418	geckodriver	INFO	geckodriver 0.21.0
+1540880180428	geckodriver	INFO	Listening on 127.0.0.1:8425
+1540880183447	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.srW1Sl73a6qZ"
+1540880185423	Marionette	INFO	Listening on port 8434
+1540880185553	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=wxapp&a=display&, line 314: ReferenceError: angular is not defined
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+1540880557266	geckodriver	INFO	geckodriver 0.21.0
+1540880557276	geckodriver	INFO	Listening on 127.0.0.1:8559
+1540880560289	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.XzBV71jbhmiL"
+1540880562733	Marionette	INFO	Listening on port 8567
+1540880563002	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+[Child 11032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/srUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540882285451	geckodriver	INFO	geckodriver 0.21.0
+1540882285461	geckodriver	INFO	Listening on 127.0.0.1:10018
+1540882288459	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.cixEKjA1kfFd"
+1540882295975	Marionette	INFO	Listening on port 10043
+1540882296418	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Use1540882730175	Marionette	INFO	Listening on port 12404
+1540882730318	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths1540883247769	Marionette	INFO	Listening on port 15196
+1540883247916	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+er Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540883567610	geckodriver	INFO	geckodriver 0.21.0
+1540883567620	geckodriver	INFO	Listening on 127.0.0.1:16871
+1540883570635	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.wWUvwy28tSEO"
+1540883573093	Marionette	INFO	Listening on port 16895
+1540883573506	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com//web/resource/js/require.js?v=20161011, line 8: Error: Script error for: moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/zhstore.php?c=user&a=login, line 212: ReferenceError: cookie is not defined
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11852, ChUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+hina.com//web/resource/js/require.js?v=20161011, line 8: Error: Script error for: moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-sso.xiao.vdongchina.com//web/resource/js/require.js?v=20161011, line 8: Error: Load timeout for modules: daterangepicker
+http://requirejs.org/docs/errors.html#timeout
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541396235259	geckodriver	INFO	geckodriver 0.21.0
+1541396235284	geckodriver	INFO	Listening on 127.0.0.1:17697
+1541396238360	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.4jdzMx8R9TrK"
+1541396244730	Marionette	INFO	Listening on port 17711
+1541396244877	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=account&, line 36: ReferenceError: util is not defined
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was dese1541397246255	Marionette	INFO	Listening on port 18914
+1541397246613	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=account&, line 36: ReferenceError: util is not defined
+patchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541397372329	geckodriver	INFO	geckodriver 0.21.0
+1541397372338	geckodriver	INFO	Listening on 127.0.0.1:19085
+1541397375376	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.fuZJ7vTq1vbr"
+1541397377371	Marionette	INFO	Listening on port 19102
+1541397377500	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=account&, line 36: ReferenceError: util is not defined
+1541397844077	geckodriver	INFO	geckodriver 0.21.0
+1541397844087	geckodriver	INFO	Listening on 127.0.0.1:19719
+1541397847105	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.cI6rCKPQRE11"
+1541397849048	Marionette	INFO	Listening on port 19729
+1541397849213	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=wxapp&, line 36: ReferenceError: util is not defined
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=wxapp&, line 36: ReferenceError: util is not defined
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=wxapp&, line 36: ReferenceError: util is not defined
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=account&, line 36: ReferenceError: util is not defined
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=wxapp&, line 36: ReferenceError: util is not defined
+1541398211510	geckodriver	INFO	geckodriver 0.21.0
+1541398211520	geckodriver	INFO	Listening on 127.0.0.1:20388
+1541398214543	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.NwqR3c2XQyQG"
+1541398216753	Marionette	INFO	Listening on port 20399
+1541398216770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541398259296	geckodriver	INFO	geckodriver 0.21.0
+1541398259307	geckodriver	INFO	Listening on 127.0.0.1:20484
+1541398262336	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.LUbfOFLvyRiB"
+1541398264492	Marionette	INFO	Listening on port 20498
+1541398264690	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=wxapp&, line 36: ReferenceError: util is not defined
+1541398448034	geckodriver	INFO	geckodriver 0.21.0
+1541398448044	geckodriver	INFO	Listening on 127.0.0.1:20729
+1541398451069	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.jbyO5vQ9i7n8"
+1541398453086	Marionette	INFO	Listening on port 20740
+1541398453187	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=wxapp&, line 36: ReferenceError: util is not defined
+1541399023174	geckodriver	INFO	geckodriver 0.21.0
+1541399023184	geckodriver	INFO	Listening on 127.0.0.1:21543
+1541399026206	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.o5lPXree9JAe"
+1541399028394	Marionette	INFO	Listening on port 21559
+1541399028412	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+1541399217606	geckodriver	INFO	geckodriver 0.21.0
+1541399217617	geckodriver	INFO	Listening on 127.0.0.1:21873
+1541399220632	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Sts8DXmVGHMs"
+1541399222884	Marionette	INFO	Listening on port 21884
+1541399223345	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+1541399441240	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1541399739989	geckodriver	INFO	geckodriver 0.21.0
+1541399739998	geckodriver	INFO	Listening on 127.0.0.1:22590
+1541399743019	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.iVs2hsW7EvRb"
+1541399745291	Marionette	INFO	Listening on port 22598
+1541399745730	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=index&a=wxapp&, line 36: ReferenceError: util is not defined
+1541399925550	geckodriver	INFO	geckodriver 0.21.0
+1541399925560	geckodriver	INFO	Listening on 127.0.0.1:22860
+1541399928543	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Aa1CBQ4ELpYb"
+1541399934010	Marionette	INFO	Listening on port 22872
+1541399934355	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+1541400141414	geckodriver	INFO	geckodriver 0.21.0
+1541400141424	geckodriver	INFO	Listening on 127.0.0.1:23179
+1541400144461	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.31gfa60sjf4E"
+1541400146666	Marionette	INFO	Listening on port 23206
+1541400146674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+1541400365582	geckodriver	INFO	geckodriver 0.21.0
+1541400365592	geckodriver	INFO	Listening on 127.0.0.1:23547
+1541400368626	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.uzaorzHTYbg5"
+1541400370731	Marionette	INFO	Listening on port 23557
+1541400370747	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://test-sso.xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+1541753943880	geckodriver	INFO	geckodriver 0.21.0
+1541753943921	geckodriver	INFO	Listening on 127.0.0.1:50473
+1541753947278	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.8TZEnhoIkd58"
+1541753954137	Marionette	INFO	Listening on port 50501
+1541753954652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541754007377	geckodriver	INFO	geckodriver 0.21.0
+1541754007387	geckodriver	INFO	Listening on 127.0.0.1:50877
+1541754010438	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.PZki1uzFxToe"
+1541754012574	Marionette	INFO	Listening on port 50907
+1541754012669	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+[Child 12556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-sso-xiao.vdongchina.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+[Child 11980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath

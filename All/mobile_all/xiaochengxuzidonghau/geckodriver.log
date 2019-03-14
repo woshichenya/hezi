@@ -1,0 +1,1492 @@
+1536214594508	geckodriver	INFO	geckodriver 0.21.0
+1536214594524	geckodriver	INFO	Listening on 127.0.0.1:51979
+1536214597574	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.8M3i39nW79Bq"
+1536214602361	Marionette	INFO	Listening on port 52012
+1536214602585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536214695136	geckodriver	INFO	geckodriver 0.21.0
+1536214695147	geckodriver	INFO	Listening on 127.0.0.1:52614
+1536214698175	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.GXuv1vp2mMQ3"
+1536214700207	Marionette	INFO	Listening on port 52632
+1536214700303	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536214981658	geckodriver	INFO	geckodriver 0.21.0
+1536214981669	geckodriver	INFO	Listening on 127.0.0.1:54338
+1536214984689	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.VhKzsoR3Abwu"
+1536214986993	Marionette	INFO	Listening on port 54370
+1536214987448	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_cIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::MUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/TelemetryController.jsm, line 461: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: modules
+tte" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.hBCduubnfXyu"
+1536215547405	Marionette	INFO	Listening on port 57663
+1536215547589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536215562385	Marionette	ERROR	No reply from Marionette:Register
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned erroUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ got '*'
+JavaScript error: http://test-plus.vdongchina.com/web/index.php?c=site&a=entry&m=ewei_shopv2&do=web&r=plugins, line 1531: SyntaxError: expected expression, got '*'
+JavaScript error: http://test-plus.vdongchina.com/web/index.php?c=site&a=entry&m=ewei_shopv2&do=web&r=plugins, line 1570: SyntaxError: expected expression, got '*'
+JavaScript error: http://test-plus.vdongchina.com/web/index.php?c=site&a=entry&m=ewei_shopv2&do=web&r=plugins, line 1606: SyntaxError: expected expression, got '*'
+JavaScript error: http://test-plus.vdongchina.com/web/index.php?c=site&a=entry&m=ewei_shopv2&do=web&r=plugins, line 1641: SyntaxError: expected expression, got '*'
+JavaScript error: http://test-plus.vdongchina.com/web/index.php?c=site&a=entry&m=ewei_shopv2&do=web&r=plugins, line 1676: SyntaxError: expected expression, got '*'
+JavaScript error: http://test-plus.vdongchina.com/web/index.php?c=site&a=entry&m=ewei_shopv2&do=web&r=plugins, line 1711: SyntaxError: expected expression, got '*'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536216836339	geckodriver	INFO	geckodriver 0.21.0
+1536216836350	geckodriver	INFO	Listening on 127.0.0.1:49903
+1536216839369	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.jysbeXcFbsRD"
+1536216841430	Marionette	INFO	Listening on port 49957
+1536216841604	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/web/resource/js/require.js?v=20170915, line 8: Error: Script error for: echarts
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7004, Chrome_ChildThread] WARNIN1536217009619	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.oLD7ZGrJHVCd"
+1536217011627	Marionette	INFO	Listening on port 51260
+1536217011739	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://test-plus.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://test-plus.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://test-plus.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://test-plus.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://test-plus.vdongchina.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://test-plus.vdongchina.com
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSource::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+channel_win.cc, line 346
+[Parent 12632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536217437492	geckodriver	INFO	geckodriver 0.21.0
+1536217437502	geckodriver	INFO	Listening on 127.0.0.1:54375
+1536217440528	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.cQpeU1Gch2G5"
+1536217442589	Marionette	INFO	Listening on port 54410
+1536217442647	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536217456063"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLaye[Child 7840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+c_channel_win.cc, line 346
+[Child 12648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536217800326	geckodriver	INFO	geckodriver 0.21.0
+1536217800337	geckodriver	INFO	Listening on 127.0.0.1:57022
+1536217803365	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Tl50dFwREkFz"
+1536217805512	Marionette	INFO	Listening on port 57053
+1536217805590	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536217818696"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536217818696"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536217818696"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536217818696"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536217818696"
+http://requirejs.org/docs/errors.html#scripterror
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536218198772"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536218198772"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536218198772"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536218198772"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536218198772"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ommon/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1536218284348	geckodriver	INFO	geckodriver 0.21.0
+1536218284359	geckodriver	INFO	Listening on 127.0.0.1:60447
+1536218287392	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Tj0u1o38Apno"
+1536218294067	Marionette	INFO	Listening on port 60474
+1536218294299	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/web/resource/js/require.js?v=20170915, line 8: Error: Script error for: echarts
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536218305953"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536218305953"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536218305953"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536218305953"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536218305953"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+tp://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536218361476"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536218361476"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/srUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6820, Gecko_IOThread] WARNING: pipe erroUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536218621993"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 4360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536218700300"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536218700300"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 11988, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 11988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+ error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536218767318"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536218767318"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536218861617"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536218861617"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536218861617"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536219225634"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8056, Chrome_ChildThread] WARNING: pipe erUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536219332326"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpatUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536219398715"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536219398715"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536219398715"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536219398715"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536219398715"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536219407337"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536219407337"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536219407337"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536219407337"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "css", needed by: css!../addons/ewei_shopv2/static/js/dist/select2/select2.css?v=1536219407337_unnormalized3, css!../addons/ewei_shopv2/static/js/dist/select2/select2-bootstrap.css?v=1536219407337_unnormalized4
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "loadcss", needed by: loadcss!../../components/daterangepicker/daterangepicker.css_unnormalized2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536219407337"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536219407337"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "moment"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2548, Chr1536219607892	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.1TdE4c6AkfxT"
+1536219609669	Marionette	INFO	Listening on port 53595
+1536219610008	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536219622463"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536219622463"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536219622463"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536219622463"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536219622463"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+urce/js/require.js?v=20170915, line 8: Error: Script error for: echarts
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536219705377"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536219705377"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536219705377"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536219705377"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536219705377"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "daterangepicker"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536219714971"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536219912193	geckodriver	INFO	geckodriver 0.21.0
+1536219912204	geckodriver	INFO	Listening on 127.0.0.1:55777
+1536219915226	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.z0UFTStkl6Km"
+1536219917563	Marionette	INFO	Listening on port 55804
+1536219917988	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536219936064"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536221620727	geckodriver	INFO	geckodriver 0.21.0
+1536221620738	geckodriver	INFO	Listening on 127.0.0.1:50460
+1536221623758	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.5c4Dpb4ki4YS"
+1536221625600	Marionette	INFO	Listening on port 50482
+1536221625876	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536221637489"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/web/resource/js/require.js?v=20170915, line 8: Error: Script error for: echarts
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536221808180"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536221808180"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536221808180"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536221808180"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536221808180"
+http://requirejs.org/docs/errors.html#scripterror
+1536222348906	geckodriver	INFO	geckodriver 0.21.0
+1536222348917	geckodriver	INFO	Listening on 127.0.0.1:55623
+1536222351917	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.4WWDns8cjEdR"
+1536222355645	Marionette	INFO	Listening on port 55650
+1536222355718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536222395448	geckodriver	INFO	geckodriver 0.21.0
+1536222395459	geckodriver	INFO	Listening on 127.0.0.1:55965
+1536222398458	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.jRXmCdqukDjb"
+1536222400467	Marionette	INFO	Listening on port 55992
+1536222400581	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536222412506"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536222412506"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536222412506"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536222412506"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536222412506"
+http://requirejs.org/docs/errors.html#scripterror
+1536222965517	geckodriver	INFO	geckodriver 0.21.0
+1536222965529	geckodriver	INFO	Listening on 127.0.0.1:59854
+1536222968558	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.us8KE7X70XUf"
+1536222970651	Marionette	INFO	Listening on port 59881
+1536222970737	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536222989244"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536222996811"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "moment"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "loadcss", needed by: loadcss!../../components/daterangepicker/daterangepicker.css_unnormalized2
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536223189710"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536223189710"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536223189710"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536223189710"
+http://requirejs.org/docs/errors.html#scripterror
+1536224421994	geckodriver	INFO	geckodriver 0.21.0
+1536224422005	geckodriver	INFO	Listening on 127.0.0.1:53950
+1536224425021	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.jhKnlhC72iIA"
+1536224427120	Marionette	INFO	Listening on port 53977
+1536224427160	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/web/resource/js/require.js?v=20170915, line 8: Error: Script error for: echarts
+http://requirejs.org/docs/errors.html#scripterror
+1536224457986	geckodriver	INFO	geckodriver 0.21.0
+1536224457997	geckodriver	INFO	Listening on 127.0.0.1:54230
+1536224461025	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.utiTb83al1Fk"
+1536224463013	Marionette	INFO	Listening on port 54257
+1536224463156	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536224514815"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536224514815"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536224514815"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536224514815"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536224514815"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 12280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/srUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+or: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536224710534"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536224710534"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "css", needed by: css!../addons/ewei_shopv2/static/js/dist/select2/select2.css?v=1536224717141_unnormalized3, css!../addons/ewei_shopv2/static/js/dist/select2/select2-bootstrap.css?v=1536224717141_unnormalized4
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536224717141"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536224717141"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "moment"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "daterangepicker"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536224726920"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536224726920"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536224726920"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536224726920"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536224726920"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536224726920"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/clipboard.min.js?v=1536224726920"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ror for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536224917649"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536224917649"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536224917649"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536225028827"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536225028827"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536225028827"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536225028827"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536225028827"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "daterangepicker"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536225039036"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536225039036"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536225120760"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3548, Gecko_IOThread] WARNING: pipe error: 109: 1536225246556	Marionette	INFO	Listening on port 59801
+1536225246571	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536225261310"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536225261310"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536225261310"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536225261310"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536225261310"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/1536225419790	Marionette	INFO	Listening on port 60950
+1536225420007	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/web/resource/js/require.js?v=20170915, line 8: Error: Script error for: echarts
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536225433845"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536225433845"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536225433845"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536225433845"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536225433845"
+http://requirejs.org/docs/errors.html#scripterror
+1536285924455	geckodriver	INFO	geckodriver 0.21.0
+1536285924494	geckodriver	INFO	Listening on 127.0.0.1:51420
+1536285927503	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.8BVIC8nTjCzq"
+1536285930258	Marionette	INFO	Listening on port 51438
+1536285931023	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536285946471"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536285946471"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536285946471"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536285946471"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://test-plus.vdongchina.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536285946471"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1536584563289	geckodriver	INFO	geckodriver 0.21.0
+1536584563309	geckodriver	INFO	Listening on 127.0.0.1:51014
+1536584566325	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.iSvEnvOYrNUn"
+1536584571451	Marionette	INFO	Listening on port 51038
+1536584571885	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 188: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536584601436"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536584601436"
+http://requirejs.org/docs/errors.html#scripterror
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+line 346
+[Child 12720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1536584876312	geckodriver	INFO	geckodriver 0.21.0
+1536584876322	geckodriver	INFO	Listening on 127.0.0.1:53011
+1536584879273	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.brBKjMvv4R3A"
+1536584881601	Marionette	INFO	Listening on port 53039
+1536584882011	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 188: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536584911890"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536584911890"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536584918876"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536584918876"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536584918876"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536584918876"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536584918876"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536585163121"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536585163121"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536587703498	geckodriver	INFO	geckodriver 0.21.0
+1536587703515	geckodriver	INFO	Listening on 127.0.0.1:53894
+1536587706496	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.Jbpkss0DmcWW"
+1536587708811	Marionette	INFO	Listening on port 53918
+1536587709262	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 188: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536587738831"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536587738831"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+om/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536587822924"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536587822924"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ns/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536587936320"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536587936320"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL proIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler retuUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+ [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536630663607	geckodriver	INFO	geckodriver 0.21.0
+1536630663615	geckodriver	INFO	Listening on 127.0.0.1:65285
+1536630666639	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.odv4WkBque34"
+1536630669827	Marionette	INFO	Listening on port 65308
+1536630670157	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 188: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536630684893"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536630684893"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 2648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7612, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536648777685	geckodriver	INFO	geckodriver 0.21.0
+1536648777695	geckodriver	INFO	Listening on 127.0.0.1:62013
+1536648780689	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.0020uKTHTYFe"
+1536648782917	Marionette	INFO	Listening on port 62042
+1536648783017	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 188: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, liUnable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 188: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+[Child 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+n, got '<'
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+1536654524384	geckodriver	INFO	geckodriver 0.21.0
+1536654524392	geckodriver	INFO	Listening on 127.0.0.1:55433
+1536654527406	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.rLhtkuhtQ3cs"
+1536654529418	Marionette	INFO	Listening on port 55456
+1536654529517	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 188: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536654558080"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536654558080"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536654564828"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536654564828"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536654564828"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536654564828"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536654564828"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ssion, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536654777302"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536654777302"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536654793448"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536654793448"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536654793448"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536654793448"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536654793448"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536654794571"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536654794571"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536654794571"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/clipboard.min.js?v=1536654794571"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536654794571"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+n, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536655025653"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536655025653"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "daterangepicker"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536655039790"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "daterangepicker"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536655039790"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536655039790"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536655039790"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536655039790"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536655039790"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536655041539"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536655041539"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536655041539"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536655041539"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536655041539"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10188, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536655167075	geckodriver	INFO	geckodriver 0.21.0
+1536655167083	geckodriver	INFO	Listening on 127.0.0.1:60080
+1536655170108	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.9AIAe91P0i3I"
+1536655172085	Marionette	INFO	Listening on port 60109
+1536655172235	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 188: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536655190341"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536655190341"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536655225782"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536655225782"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/clipboard.min.js?v=1536655225782"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536655225782"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536655225782"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536655225782"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536655225782"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536655229974"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536655229974"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536655229974"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536655229974"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536655229974"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536655393101"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536655393101"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536655399655"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536655399655"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536655399655"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536655399655"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/clipboard.min.js?v=1536655399655"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536655399655"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536655399655"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536655409733"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536655409733"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536655409733"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536655409733"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536655409733"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+vaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 194: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536655540887"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536655540887"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/clipboard.min.js?v=1536655552440"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536655552440"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536655552440"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536655552440"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536655552440"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536655552440"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536655552440"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "daterangepicker"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536655559504"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536655559504"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536655559504"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536655559504"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536655559504"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 194: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/fonts/v3/iconfont.js, line 1: TypeError: target is null
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536655985252"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536655985252"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536655993373"
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/1536656061707	Marionette	INFO	Listening on port 50079
+1536656062194	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 194: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536656092966"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536656092966"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "moment"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536656100289"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "loadcss", needed by: loadcss!../../components/daterangepicker/daterangepicker.css_unnormalized2
+http://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+1536658050207	geckodriver	INFO	geckodriver 0.21.0
+1536658050216	geckodriver	INFO	Listening on 127.0.0.1:63581
+1536658053246	mozrunner::runner	INFO	Running command: "F:\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chenya\\AppData\\Local\\Temp\\rust_mozprofile.9YUoBE98fteS"
+1536658055248	Marionette	INFO	Listening on port 63610
+1536658055370	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\chenya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=system, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=user&a=login&, line 194: ReferenceError: cookie is not defined
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=FRAME, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/web/index.php?c=utility&a=visit&do=showjs&type=account, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/echarts/echarts-all.js?v=1536658079596"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/init.js?v=1536658079596"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536658086670"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536658086670"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658086670"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658086670"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658086670"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658086670"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536658087453"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658087453"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658087453"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658087453"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658087453"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658090581"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536658090581"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658099236"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658099236"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658099236"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658099236"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536658099236"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658111744"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658111744"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536658111744"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658111744"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658111744"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658112857"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658112857"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658112857"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536658112857"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658112857"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536658118019"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536658118019"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658118019"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658118019"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658118019"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658118019"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658120496"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658120496"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658120496"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536658120496"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658120496"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658123970"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658123970"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536658123970"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658123970"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658123970"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658126608"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/table.js?v=1536658126608"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658126608"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658126608"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658126608"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/jquery/jquery.gcjs.js?v=1536658134610"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/tip.js?v=1536658134610"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/tooltipbox.js?v=1536658134610"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/web/biz.js?v=1536658134610"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://test-xiao.vdongtx.com/addons/ewei_shopv2/static/js/require.js, line 5: Error: Script error for "../addons/ewei_shopv2/static/js/dist/select2/select2.min.js?v=1536658134610"
+http://requirejs.org/docs/errors.html#scripterror
