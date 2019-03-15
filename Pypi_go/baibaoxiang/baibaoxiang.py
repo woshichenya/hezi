@@ -14,8 +14,10 @@ class geturl():
     value=1
     num=0
     numd=0
-
-    llq = webdriver.Firefox()
+    try:
+        llq = webdriver.Firefox()
+    except:
+        llq = webdriver.Chrome()
     def __init__(self, url):
         self.url = url
         geturl.llq.get(self.url)
