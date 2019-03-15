@@ -1,5 +1,4 @@
 setup.py
-baibaoxiang/__init__.py
 baibaoxiang/baibaoxiang.py
 baibaoxiang/baibaoxiangInterface.py
 baibaoxiang/baibaoxiangMobile.py
