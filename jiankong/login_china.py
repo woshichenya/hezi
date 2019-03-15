@@ -14,7 +14,8 @@ go.Sid("pasword","密码",ho["pasword"],"输入密码","无法输入密码")
 go.CTag_name_zidingyi("button","text","登录","登录","登录成功","登录失败")
 go.llq.maximize_window()
 
-while 1==1:
+k_1=1
+while k_1==1:
 
     i=1
     a=1
@@ -59,11 +60,11 @@ while 1==1:
             print("已进入独立商城首页")
             break
 
-    go.CTag_name_zidingyi("div","class","btn-group float-left","独立商城下拉框","展开独立商城下拉框","无法展开独立商城下拉框")
-    go.Ctext("返回系统","返回系统按钮","点击返回系统","无法点击返回系统")
-    go.Jubing_go(2,1)
-    go.llq.close()
-    go.Jubing_go(1,1)
+    # go.CTag_name_zidingyi("div","class","btn-group float-left","独立商城下拉框","展开独立商城下拉框","无法展开独立商城下拉框")
+    # go.Ctext("返回系统","返回系统按钮","点击返回系统","无法点击返回系统")
+    # go.Jubing_go(2,1)
+    # go.llq.close()
+    # go.Jubing_go(1,1)
     # print(go.llq.window_handles)
     # print(go.llq.current_window_handle)
-
+    k_1 += 1
