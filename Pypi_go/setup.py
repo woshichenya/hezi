@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="chenyabaibaoxiang",
-    version="2.0.8",
+    version="2.1.0",
     keywords=("dashu", "baibaoxiang"),
     description="time and path tool",
     long_description="time and path tool",
