@@ -1,7 +1,7 @@
-import baibaoxiang
+from beifen import baibaoxiang
 
 url=""
 username=""
 pas=""
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 

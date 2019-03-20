@@ -1,0 +1,23 @@
+[INFO  - 2019-03-20T01:43:53.957Z] GhostDriver - Main - running on port 57345
+[INFO  - 2019-03-20T01:43:58.357Z] Session [a11251f0-4ab1-11e9-8f4d-9b38dfcd5098] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-03-20T01:43:58.357Z] Session [a11251f0-4ab1-11e9-8f4d-9b38dfcd5098] - page.customHeaders:  - {}
+[INFO  - 2019-03-20T01:43:58.357Z] Session [a11251f0-4ab1-11e9-8f4d-9b38dfcd5098] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-03-20T01:43:58.357Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a11251f0-4ab1-11e9-8f4d-9b38dfcd5098
+[ERROR - 2019-03-20T01:43:59.160Z] Session [a11251f0-4ab1-11e9-8f4d-9b38dfcd5098] - page.onError - msg: ReferenceError: Can't find variable: Promise
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-20T01:43:59.160Z] Session [a11251f0-4ab1-11e9-8f4d-9b38dfcd5098] - page.onError - stack:
+  getAjax (https://sso.vdongchina.com/index/login:210)
+  goin (https://sso.vdongchina.com/index/login:167)
+  onclick (https://sso.vdongchina.com/index/login:69)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error

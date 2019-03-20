@@ -1,7 +1,6 @@
-import time
-import baibaoxiang
+from beifen import baibaoxiang
 
-go=baibaoxiang.geturl("http://test-sso-xiao.vdongchina.com/")
+go= baibaoxiang.geturl("http://test-sso-xiao.vdongchina.com/")
 Go=go.llq
 
 

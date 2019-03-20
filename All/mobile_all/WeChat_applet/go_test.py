@@ -1,9 +1,5 @@
 import MobileNew
 import time
-import femail
-from PIL import Image
-import pytesseract
-import traceback
 
 '''必改参数'''
 url='https://test-plus.vdongchina.com/app/ewei_shopv2_api.php?i=1001&r=member&comefrom=wxapp&openid=sns_wa_o6mWA4noeUX5DRr-FaAajrjZ0e1o&mid=&merchid=&authkey=&timestamp=1539064803196'

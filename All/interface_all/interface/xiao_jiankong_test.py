@@ -1,8 +1,5 @@
 import requests
-import traceback
-import re
-import femail
-import json
+from beifen import femail
 
 hand={
     "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8",
@@ -21,7 +18,7 @@ print(x.request)
 #print(x.text)
 er_text="您访问的功能模块不存在，请重新进入"
 if er_text in x.text:
-    femail.email("打开商城报错，报错内容是：%s"%er_text,"html","")
+    femail.email("打开商城报错，报错内容是：%s" % er_text, "html", "")
 if "util.message" not in x.text:
     print("111111111111111111111111")
 else:

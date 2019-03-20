@@ -1,7 +1,7 @@
-import baibaoxiang
-import time
+from beifen import baibaoxiang
+
 url="http://test-plus.vdongchina.com/"
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 
 bosstao={
     "username":"vdong",

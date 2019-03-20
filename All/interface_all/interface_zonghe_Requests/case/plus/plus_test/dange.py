@@ -1,4 +1,4 @@
-import sql
+from beifen import sql
 import time
 
 new_time="'"+time.strftime("%Y-%m-%d", time.localtime())+"'"

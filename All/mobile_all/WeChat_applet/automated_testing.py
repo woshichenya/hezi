@@ -1,9 +1,7 @@
 from appium import webdriver
-from appium.webdriver.common.touch_action import TouchAction
+from beifen import baibaoxiang
 import time
-import baibaoxiang
-import time
-from selenium.webdriver.common.keys import Keys
+
 '''换系统需要修改的地方：
 1.域名必须要改——url
 2.检查登录按钮
@@ -20,7 +18,7 @@ username="vdongshopplus"
 pasword="1234567890"
 
 '''web开始'''
-GO=baibaoxiang.geturl
+GO= baibaoxiang.geturl
 Go= baibaoxiang.geturl.llq
 url="http://test-plus.vdongchina.com"
 go= baibaoxiang.geturl(url)

@@ -1,13 +1,9 @@
 from appium import webdriver
-from appium.webdriver.common.touch_action import TouchAction
+from beifen import baibaoxiang
 import time
-import baibaoxiang
-import time
-from selenium.webdriver.common.keys import Keys
-
 
 '''web开始'''
-GO=baibaoxiang.geturl
+GO= baibaoxiang.geturl
 Go= baibaoxiang.geturl.llq
 url="http://test-plus.vdongchina.com"
 go= baibaoxiang.geturl(url)

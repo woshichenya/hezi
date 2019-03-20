@@ -1,8 +1,5 @@
-import BaibaoxiangMobile
+from beifen import BaibaoxiangMobile, femail
 import time
-import femail
-from PIL import Image
-import pytesseract
 import traceback
 
 '''必改参数'''
@@ -12,7 +9,7 @@ box = (53, 994, 560, 1047)
 
 
 '''启动手机微信'''
-M=BaibaoxiangMobile.MGO()
+M= BaibaoxiangMobile.MGO()
 
 '''先获取该会员的金额'''
 vip_jine_start=M.vip_jine(url)
@@ -71,7 +68,7 @@ while gogo==1 and ii<=10:
         ii+=1
         time.sleep(5)
 if ii==11:
-    femail("进入小程序连续失败11次","plain",pen_names)
+    femail("进入小程序连续失败11次", "plain", pen_names)
 M.biaoji_time()
 
 '''拍照'''

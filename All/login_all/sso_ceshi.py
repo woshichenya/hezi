@@ -1,6 +1,7 @@
-import baibaoxiang
+from beifen import baibaoxiang
+
 url="http://ceshi-sso.vdongchina.com"
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 wchen_shoptest={
     "username":"shoptester",
     "password":"shoptester",

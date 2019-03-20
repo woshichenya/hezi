@@ -1,6 +1,5 @@
-import BaibaoxiangMobile
+from beifen import BaibaoxiangMobile, femail
 import time
-import femail
 import traceback
 
 '''必改参数'''
@@ -18,7 +17,7 @@ vip_jifen_bianhao_url="https://test-plus.vdongchina.com/app/ewei_shopv2_api.php?
 
 
 '''启动手机微信'''
-M=BaibaoxiangMobile.MGO()
+M= BaibaoxiangMobile.MGO()
 M.biaoji_time()
 time.sleep(20)
 
@@ -94,7 +93,7 @@ while gogo==1 and ii<=10:
         time.sleep(5)
         M.biaoji_time()
 if ii==11:
-    femail("进入小程序连续失败11次","plain",pen_names)
+    femail("进入小程序连续失败11次", "plain", pen_names)
 M.biaoji_time()
 
 '''拍照'''

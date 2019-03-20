@@ -1,6 +1,7 @@
-import baibaoxiang
-go=baibaoxiang.geturl("http://test-mp.vdongtx.com/web/index.php?c=user&a=login&")
-Go=baibaoxiang.geturl
+from beifen import baibaoxiang
+
+go= baibaoxiang.geturl("http://test-mp.vdongtx.com/web/index.php?c=user&a=login&")
+Go= baibaoxiang.geturl
 
 def denglu():
     go.Sxpath("//input[@name='username']","用户名输入框","admin","输入用户名","Bug--无法输入用户名")

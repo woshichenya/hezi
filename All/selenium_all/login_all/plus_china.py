@@ -1,8 +1,8 @@
 #http://plus.vdongchina.com/
-import baibaoxiang
+from beifen import baibaoxiang
 import time
 url="http://aplus.vdongchina.com/"
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 username="18811021000"
 pasword="12345678"
 go.Ctext("立即登录","立即登录按钮","进入登录页面","无法点击立即登录按钮")

@@ -1,6 +1,7 @@
-import baibaoxiang
+from beifen import baibaoxiang
+
 url="http://test-sso.vdongchina.com"
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 shoujihao="18100000056"
 shoujihao="18871551001"
 go.Sid("inphoneinput","用户名",shoujihao,"输入用户名","无法输入用户名")

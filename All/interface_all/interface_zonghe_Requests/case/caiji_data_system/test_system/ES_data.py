@@ -1,5 +1,6 @@
-import baibaoxiangInterface
-go=baibaoxiangInterface.go()
+from beifen import baibaoxiangInterface
+
+go= baibaoxiangInterface.go()
 url="http://39.107.239.18:5601/api/console/proxy"
 data={
     "method":"GET",

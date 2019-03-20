@@ -1,6 +1,7 @@
-import baibaoxiang
+from beifen import baibaoxiang
+
 url="http://test-sso.vdongchina.com"
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 wchen_vdong={
     "username":"vdongshopplus",
     "password":"1234567890",

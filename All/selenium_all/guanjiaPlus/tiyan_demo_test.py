@@ -1,8 +1,8 @@
-import baibaoxiang
+from beifen import baibaoxiang
 import time
 import traceback
 
-GO=baibaoxiang.geturl
+GO= baibaoxiang.geturl
 Go= baibaoxiang.geturl.llq
 #url="http://plus.vdongchina.com/"
 url="http://test-plus.vdongchina.com"

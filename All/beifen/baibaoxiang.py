@@ -1168,9 +1168,9 @@ class geturl():
                 # print(xx)
                 aa = geturl.llq.find_elements_by_xpath(xx)
                 for a in aa:
-                    print(len(aa))
+                    # print(len(aa))
                     # print("class:",a.get_attribute("class"))    #临时检测点
-                    print("text:", a.text)  # 临时检测点
+                    # print("text:", a.text)  # 临时检测点
                     # a.send_keys(Keys.ENTER)
                     a.click()
                     # print(xx)

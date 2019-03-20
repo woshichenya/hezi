@@ -1,10 +1,7 @@
-from selenium.webdriver.support.select import Select
-
-import baibaoxiang
+from beifen import baibaoxiang
 import time
-from selenium.webdriver.common.keys import Keys
 
-GO=baibaoxiang.geturl
+GO= baibaoxiang.geturl
 Go= baibaoxiang.geturl.llq
 url="http://plus.vdongchina.com/"
 go= baibaoxiang.geturl(url)

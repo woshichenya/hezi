@@ -1,7 +1,7 @@
 import traceback
-import femail
+from beifen import femail
 
-email=femail.email
+email= femail.email
 
 
 

@@ -1,5 +1,5 @@
 from appium import webdriver
-import BaibaoxiangMobile
+from beifen import BaibaoxiangMobile
 import time
 
 '''换系统需要修改的地方：
@@ -16,7 +16,7 @@ import time
 url4='https://test-plus.vdongchina.com/app/ewei_shopv2_api.php?i=1001&r=member&comefrom=wxapp&openid=sns_wa_o6mWA4noeUX5DRr-FaAajrjZ0e1o&mid=&merchid=&authkey=&timestamp=1539064803196'
 
 '''启动手机微信'''
-M=BaibaoxiangMobile.MGO
+M= BaibaoxiangMobile.MGO
 
 '''先获取该会员的金额'''
 vip_jine_start=M.vip_jifen()

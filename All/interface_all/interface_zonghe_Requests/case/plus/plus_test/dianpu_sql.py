@@ -1,5 +1,6 @@
-import sql
-sql_go=sql.sql()
+from beifen import sql
+
+sql_go= sql.sql()
 '''SQL语句们'''
 #公众号id
 sql_gzh_id_list="SELECT uniacid FROM plus_shop_info WHERE user_id in (SELECT user_id FROM `plus_users` as a WHERE group_id ='1016')"

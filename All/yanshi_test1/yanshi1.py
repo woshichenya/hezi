@@ -1,4 +1,4 @@
-import BaibaoxiangMobile
+from beifen import BaibaoxiangMobile
 import time
 
 
@@ -8,7 +8,7 @@ shopname="请输入页面标题"
 box = (53, 994, 560, 1047)
 
 
-M=BaibaoxiangMobile.MGO()
+M= BaibaoxiangMobile.MGO()
 M.moblie_huadong()
 
 time.sleep(10)

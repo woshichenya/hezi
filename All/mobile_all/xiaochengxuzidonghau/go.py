@@ -1,11 +1,6 @@
 from appium import webdriver
-from appium.webdriver.common.touch_action import TouchAction
+from beifen import baibaoxiang
 import time
-import baibaoxiang
-import time
-from selenium.webdriver.common.keys import Keys
-
-
 
 '''换系统需要修改的地方：
 1.域名必须要改——url
@@ -25,7 +20,7 @@ pasword="1234567890"
 name="陈雅小号"
 
 '''web开始'''
-GO=baibaoxiang.geturl
+GO= baibaoxiang.geturl
 Go= baibaoxiang.geturl.llq
 go= baibaoxiang.geturl(url)
 Go.maximize_window()

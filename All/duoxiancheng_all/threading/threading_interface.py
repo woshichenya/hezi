@@ -1,8 +1,8 @@
 import time
 import threading
-import baibaoxiangInterface
+from beifen import baibaoxiangInterface
 
-go=baibaoxiangInterface.go()
+go= baibaoxiangInterface.go()
 class a(threading.Thread):
     def __init__(self,url, data, header,name):
         threading.Thread.__init__(self)

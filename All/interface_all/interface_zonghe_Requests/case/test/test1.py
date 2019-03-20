@@ -1,8 +1,6 @@
-import sql
+from beifen import sql
 import interface_all.interface_zonghe_Requests.baibaoxiang.baibaoxiangInterface
 import re
-import sql
-import requests
 import interface_all.interface_zonghe_Requests.baibaoxiang.excel_xlwt
 import time
 go= interface_all.interface_zonghe_Requests.baibaoxiang.baibaoxiangInterface.go()
@@ -11,7 +9,7 @@ time_new=time.strftime("%Y%m%d%H%M%S",time.localtime())
 '''通用模块'''
 excel=interface_all.interface_zonghe_Requests.baibaoxiang.excel_xlwt.a()
 sql_url="SELECT id FROM `plus_user_position` where `name` like '新添加的职位'"
-sql_go=sql.sql()
+sql_go= sql.sql()
 '''SQL语句们'''
 sql_gzh_id_list="SELECT uniacid FROM plus_shop_info WHERE user_id in (SELECT user_id FROM `plus_users` as a WHERE group_id ='1016')"
 

@@ -1,15 +1,8 @@
 # coding: utf-8
 from appium import webdriver
-from appium.webdriver.common.touch_action import TouchAction
+from beifen import baibaoxiang, femail
 import time
-import baibaoxiang
-import time
-from selenium.webdriver.common.keys import Keys
 
-import smtplib
-from email.mime.text import MIMEText
-from email.header import Header
-import femail
 import traceback
 
 
@@ -33,13 +26,13 @@ name="陈雅小号"
 shopname="综合平台测试商户"
 
 '''web开始'''
-GO=baibaoxiang.geturl
+GO= baibaoxiang.geturl
 Go= baibaoxiang.geturl.llq
 go= baibaoxiang.geturl(url)
 Go.maximize_window()
 
 '''邮件方法'''
-email=femail.email
+email= femail.email
 
 
 '''封装wechat方法'''

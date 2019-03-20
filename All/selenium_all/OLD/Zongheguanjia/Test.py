@@ -1,4 +1,4 @@
-import baibaoxiang
+from beifen import baibaoxiang
 
 Go= baibaoxiang.geturl
 go= baibaoxiang.geturl("https://test-xiao.vdongtx.com/")

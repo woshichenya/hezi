@@ -1,8 +1,8 @@
 #http://plus.vdongchina.com/
-import baibaoxiang
+from beifen import baibaoxiang
 import time
 url="http://aplus.vdongchina.com/"
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 
 
 bosstao={

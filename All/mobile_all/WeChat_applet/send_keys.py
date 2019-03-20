@@ -1,4 +1,4 @@
-import BaibaoxiangMobile
+from beifen import BaibaoxiangMobile
 import time
 
 
@@ -10,7 +10,7 @@ box = (53, 994, 560, 1047)
 
 
 '''启动手机微信'''
-M=BaibaoxiangMobile.MGO()
+M= BaibaoxiangMobile.MGO()
 M.biaoji_time()
 time.sleep(20)
 

@@ -1,6 +1,7 @@
-import baibaoxiang
+from beifen import baibaoxiang
+
 url="http://sso.vdongchina.com"
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 plus={
     "username":"18811020000",
     "paswored":"12345678",

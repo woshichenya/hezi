@@ -1,4 +1,4 @@
-import BaibaoxiangMobile
+from beifen import BaibaoxiangMobile
 import time
 
 
@@ -6,7 +6,7 @@ import time
 
 gw_go=1
 while gw_go==1:
-    m=BaibaoxiangMobile.MGO()
+    m= BaibaoxiangMobile.MGO()
     s=m.go()
     if s=="over":
         print("准备重来")

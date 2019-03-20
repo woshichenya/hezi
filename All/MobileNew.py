@@ -1,6 +1,6 @@
 from appium import webdriver
 import time
-import femail
+from beifen import femail
 import traceback
 import requests
 import json

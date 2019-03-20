@@ -1,6 +1,7 @@
-import baibaoxiang
+from beifen import baibaoxiang
+
 url="http://39.107.239.18:5601/app/kibana#/dev_tools/console?_g=()"
-go=baibaoxiang.geturl(url)
+go= baibaoxiang.geturl(url)
 
 
 '''

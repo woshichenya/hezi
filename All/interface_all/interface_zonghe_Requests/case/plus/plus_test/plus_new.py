@@ -1,6 +1,6 @@
 import interface_all.interface_zonghe_Requests.baibaoxiang.baibaoxiangInterface
 import re
-import sql
+from beifen import sql
 import requests
 import interface_all.interface_zonghe_Requests.baibaoxiang.excel_xlwt
 import time
@@ -9,7 +9,7 @@ time_new=time.strftime("%Y%m%d%H%M%S",time.localtime())
 excel=interface_all.interface_zonghe_Requests.baibaoxiang.excel_xlwt.a()
 sql_url="SELECT id FROM `plus_user_position` where `name` like '新添加的职位'"
 
-sql_go=sql.sql()
+sql_go= sql.sql()
 roles="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40"
 # username="188715517741"
 username="18871551001"

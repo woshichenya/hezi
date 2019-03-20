@@ -1,4 +1,5 @@
-import sql
-go=sql.sql()
+from beifen import sql
 
-go.lianjie_sql("plus2test",sql)
+go= sql.sql()
+
+go.lianjie_sql("plus2test", sql)

@@ -1,7 +1,3 @@
-from selenium.webdriver.support.select import Select
-import baibaoxiang
-import time
-from selenium.webdriver.common.keys import Keys
 import guanjiaPlus.Test
 
 

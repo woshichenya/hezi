@@ -1,4 +1,4 @@
-import baibaoxiang
+from beifen import baibaoxiang
 
 '''打开火狐浏览器和小名片的后台主页'''
 go= baibaoxiang.geturl("http://39.107.239.18:5901/admin.php/user/publics/signin.html")

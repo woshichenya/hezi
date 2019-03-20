@@ -1,11 +1,6 @@
-from selenium.webdriver.support.select import Select
+from beifen import baibaoxiang
 
-import baibaoxiang
-import guanjiaPlus.Test
-import time
-from selenium.webdriver.common.keys import Keys
-
-GO=baibaoxiang.geturl
+GO= baibaoxiang.geturl
 Go= baibaoxiang.geturl.llq
 url="http://test-plus.vdongchina.com/web/merchant.php?c=site&a=entry&m=ewei_shopv2&do=web&r=login&i=248"
 go= baibaoxiang.geturl(url)
