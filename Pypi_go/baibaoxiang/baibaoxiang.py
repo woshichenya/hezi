@@ -8,16 +8,31 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from tkinter import *
 import traceback
+import sys
+
 
 
 class geturl():
     value=1
     num=0
     numd=0
-    try:
-        llq = webdriver.Firefox()
-    except:
-        llq = webdriver.Chrome()
+
+    if "win" in sys.platform:
+        try:
+            llq = webdriver.Firefox()
+        except:
+            llq = webdriver.Chrome()
+    elif "linux" in sys.platform:
+        from pyvirtualdisplay import Display
+        a = Display(visible=0, size=(800, 600))
+        a.start()
+        b = webdriver.ChromeOptions()
+        b.add_argument('--headless')
+        llq = webdriver.Chrome(chrome_options=b)
+        def end(self):
+            geturl.llq.quit()
+            geturl.a.stop()
+
     def __init__(self, url):
         self.url = url
         geturl.llq.get(self.url)
@@ -1233,6 +1248,3 @@ class geturl():
         r = requests.post(url, data=datas, headers=xiaoxitou_text)
         return r.text
 
-#go=geturl("https://robot.vdongchina.com/web/index.php")
-#go.Stext("username","admin")
-#go.Stext("password","sdf")
