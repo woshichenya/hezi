@@ -18,6 +18,7 @@ class geturl():
     numd=0
 
     if "win" in sys.platform:
+        system="win"
         try:
             llq = webdriver.Firefox()
         except:
@@ -29,14 +30,17 @@ class geturl():
         b = webdriver.ChromeOptions()
         b.add_argument('--headless')
         llq = webdriver.Chrome(chrome_options=b)
-        def end(self):
-            geturl.llq.quit()
-            geturl.a.stop()
+        system="lin"
 
     def __init__(self, url):
         self.url = url
         geturl.llq.get(self.url)
 
+#关闭浏览器的方法，if是linux系统，就多一步关闭webdriver
+    def end(self):
+        geturl.llq.quit()
+        if geturl.system == "lin":
+            geturl.a.stop()
 # **************获取控件的value
     def Value(self, aa):
         self.aa = aa
@@ -1207,6 +1211,7 @@ class geturl():
         while cishu < 30 and end_cishu == 0:
             print("第%d次尝试"%cishu)
             try:
+                s=geturl.llq.find_elements_by_xpath("//div[@class = 'ext-apply-item ']")
                 s = geturl.llq.find_elements_by_class_name("ext-apply-item ")
                 k = 1
                 for i in s:
@@ -1244,7 +1249,31 @@ class geturl():
             except:
                 print("再来一次")
                 k_sum += 1
+
     def jiekou_post(self,url,datas,xiaoxitou_text):
         r = requests.post(url, data=datas, headers=xiaoxitou_text)
         return r.text
 
+    # 滚动条的操作(可以以任何控件为坐标，拉动滚动条)
+    def huadongpingmu_diduan(self,xpath):
+        try:
+            geturl.llq.find_element_by_xpath(xpath).send_keys(Keys.END)
+            print('将滚动条拉到底端')
+            time.sleep(2)
+        except:
+            geturl.error()
+
+    def huadongpingmu_upduan(self, xpath):
+        try:
+            geturl.llq.find_element_by_xpath(xpath).send_keys(Keys.UP)
+            print('将滚动条拉到上端')
+            time.sleep(2)
+        except:
+            geturl.error()
+
+    def huadongpingmu_xiayige(self, xpath):
+        try:
+            geturl.llq.find_element_by_xpath(xpath).send_keys(Keys.DOWN)
+            print('将滚动条下拉一格')
+        except:
+            geturl.error()

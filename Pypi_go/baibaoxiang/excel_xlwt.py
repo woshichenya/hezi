@@ -30,7 +30,10 @@ class a:
         # print(a.row,a.col)
 
 
-    def end(self):
+    def end(self,address,name):
         tt=time.strftime("%Y%m%d%H%M%S",time.localtime())
-        a.book.save("D:\linshi\\test22\\"+tt+"SSO验证码接口运行结果.xls")  # 保存到当前目录下
+        if address == "":
+            a.book.save("D:\\baogao\\"+tt+name+"运行结果.xls")  # 保存到当前目录下
+        else:
+            a.book.save(address + tt + name+"运行结果.xls")  # 保存到当前目录下
 
