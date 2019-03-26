@@ -22,7 +22,7 @@
     <SUITE FILE_PATH="coverage/All$test_one.coverage" NAME="test_one Coverage Results" MODIFIED="1547214054947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/dage" />
     <SUITE FILE_PATH="coverage/All$plus2_user.coverage" NAME="plus2_user Coverage Results" MODIFIED="1545897469432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_zonghe_Requests/case" />
     <SUITE FILE_PATH="coverage/All$40_china.coverage" NAME="40_china Coverage Results" MODIFIED="1539179771200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeChat_applet" />
-    <SUITE FILE_PATH="coverage/All$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1553043933764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
+    <SUITE FILE_PATH="coverage/All$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1553072219579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
     <SUITE FILE_PATH="coverage/All$jinrugongzhonghao.coverage" NAME="jinrugongzhonghao Coverage Results" MODIFIED="1532500740290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gongzhonghao30" />
     <SUITE FILE_PATH="coverage/All$dange.coverage" NAME="dange Coverage Results" MODIFIED="1552271187053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/plus_test" />
     <SUITE FILE_PATH="coverage/All$xiaochengxu_linshi.coverage" NAME="xiaochengxu-linshi Coverage Results" MODIFIED="1532051358493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -42,12 +42,14 @@
     <SUITE FILE_PATH="coverage/All$ini_go.coverage" NAME="ini_go Coverage Results" MODIFIED="1546913169514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_all/INI" />
     <SUITE FILE_PATH="coverage/All$MobileNew.coverage" NAME="MobileNew Coverage Results" MODIFIED="1539220426572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/All$_china.coverage" NAME="只能物业_china Coverage Results" MODIFIED="1551610079788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_all/wechenjisu_40/case" />
+    <SUITE FILE_PATH="coverage/All$test_on.coverage" NAME="test_on Coverage Results" MODIFIED="1553148675399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
     <SUITE FILE_PATH="coverage/All$xiaochengxuguanliyemian.coverage" NAME="xiaochengxuguanliyemian Coverage Results" MODIFIED="1540793475397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guanjiaPlus" />
-    <SUITE FILE_PATH="coverage/All$go.coverage" NAME="go Coverage Results" MODIFIED="1545364371546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeChat_applet" />
+    <SUITE FILE_PATH="coverage/All$go.coverage" NAME="go Coverage Results" MODIFIED="1553249980062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_all/jiankong502" />
     <SUITE FILE_PATH="coverage/All$Email.coverage" NAME="Email Coverage Results" MODIFIED="1537327949830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Email" />
     <SUITE FILE_PATH="coverage/All$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1552987739360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
     <SUITE FILE_PATH="coverage/All$fenxiaoshang.coverage" NAME="fenxiaoshang Coverage Results" MODIFIED="1532483800229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zongheguanjia" />
     <SUITE FILE_PATH="coverage/All$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1550481676838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test" />
+    <SUITE FILE_PATH="coverage/All$cpu.coverage" NAME="cpu Coverage Results" MODIFIED="1553566035198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_all/system" />
     <SUITE FILE_PATH="coverage/All$gongzhonghao.coverage" NAME="gongzhonghao Coverage Results" MODIFIED="1535367726550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gongzhonghao" />
     <SUITE FILE_PATH="coverage/All$plus_china_sso.coverage" NAME="plus_china_sso Coverage Results" MODIFIED="1548415370518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_all/login_all" />
     <SUITE FILE_PATH="coverage/All$KPI_shezhi.coverage" NAME="KPI_shezhi Coverage Results" MODIFIED="1539863344071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guanjiaPlus" />
@@ -66,14 +68,14 @@
     <SUITE FILE_PATH="coverage/All$plus_test_new.coverage" NAME="plus_test_new Coverage Results" MODIFIED="1540451195911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeChat_applet" />
     <SUITE FILE_PATH="coverage/All$tianmao.coverage" NAME="tianmao Coverage Results" MODIFIED="1551423357654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/All$webdriver.coverage" NAME="webdriver Coverage Results" MODIFIED="1536042981369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/ruanjian/python3.6/anzhuang/Lib/site-packages/selenium/webdriver/remote" />
-    <SUITE FILE_PATH="coverage/All$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1553046232013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
+    <SUITE FILE_PATH="coverage/All$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1553073967812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
     <SUITE FILE_PATH="coverage/All$guanwang_xiaochengxu.coverage" NAME="guanwang_xiaochengxu Coverage Results" MODIFIED="1542363386076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeChat_applet" />
     <SUITE FILE_PATH="coverage/All$automated_testing.coverage" NAME="automated_testing Coverage Results" MODIFIED="1536287063954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeChat_applet" />
     <SUITE FILE_PATH="coverage/All$zidian.coverage" NAME="zidian Coverage Results" MODIFIED="1551947101679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_all" />
     <SUITE FILE_PATH="coverage/All$post_test.coverage" NAME="post_test Coverage Results" MODIFIED="1545034151232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/All$yingyong.coverage" NAME="yingyong Coverage Results" MODIFIED="1532483744704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zongheguanjia" />
     <SUITE FILE_PATH="coverage/All$Email__1_.coverage" NAME="Email (1) Coverage Results" MODIFIED="1536720512176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Email" />
-    <SUITE FILE_PATH="coverage/All$test.coverage" NAME="test Coverage Results" MODIFIED="1552993062934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang" />
+    <SUITE FILE_PATH="coverage/All$test.coverage" NAME="test Coverage Results" MODIFIED="1553504544312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang" />
     <SUITE FILE_PATH="coverage/All$plus_test_sso.coverage" NAME="plus_test_sso Coverage Results" MODIFIED="1548658712037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_all/login_all" />
     <SUITE FILE_PATH="coverage/All$Excel.coverage" NAME="Excel Coverage Results" MODIFIED="1545904631928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/Error_go" />
     <SUITE FILE_PATH="coverage/All$on_all.coverage" NAME="on_all Coverage Results" MODIFIED="1542887240298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PC_zonghe_selenium/go" />
@@ -94,9 +96,11 @@
     <SUITE FILE_PATH="coverage/All$public_WechatWell_case.coverage" NAME="public_WechatWell_case Coverage Results" MODIFIED="1544688597963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PC_zonghe_selenium/case" />
     <SUITE FILE_PATH="coverage/All$plus2_user__1_.coverage" NAME="plus2_user (1) Coverage Results" MODIFIED="1546049739425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case" />
     <SUITE FILE_PATH="coverage/All$redian_test.coverage" NAME="redian_test Coverage Results" MODIFIED="1543461927775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guanjiaPlus" />
+    <SUITE FILE_PATH="coverage/All$cpu3.coverage" NAME="cpu3 Coverage Results" MODIFIED="1553565402498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_all/system" />
     <SUITE FILE_PATH="coverage/All$sql_test1.coverage" NAME="sql_test1 Coverage Results" MODIFIED="1539680916578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQL" />
-    <SUITE FILE_PATH="coverage/All$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1539052493677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/All$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1553053441744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
     <SUITE FILE_PATH="coverage/All$femail.coverage" NAME="femail Coverage Results" MODIFIED="1540451830871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/All$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1553054034435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
     <SUITE FILE_PATH="coverage/All$12306.coverage" NAME="12306 Coverage Results" MODIFIED="1546502143423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/All$WechatWell_case.coverage" NAME="WechatWell_case Coverage Results" MODIFIED="1545042731190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PC_zonghe_selenium/PC_jiekou" />
     <SUITE FILE_PATH="coverage/All$go2_0.coverage" NAME="go2_0 Coverage Results" MODIFIED="1536285923668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiaochengxuzidonghau" />
@@ -123,9 +127,11 @@
     <SUITE FILE_PATH="coverage/All$huoqu_JifenAndJine.coverage" NAME="huoqu_JifenAndJine Coverage Results" MODIFIED="1539076389320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/All$into_applet.coverage" NAME="into_applet Coverage Results" MODIFIED="1543825964913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PC_zonghe_selenium/into" />
     <SUITE FILE_PATH="coverage/All$dianpu_sql.coverage" NAME="dianpu_sql Coverage Results" MODIFIED="1550482072422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus_test" />
+    <SUITE FILE_PATH="coverage/All$cpu2.coverage" NAME="cpu2 Coverage Results" MODIFIED="1553566728092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_all/system" />
     <SUITE FILE_PATH="coverage/All$public_shop_case.coverage" NAME="public_shop_case Coverage Results" MODIFIED="1545037720613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PC_zonghe_selenium/case" />
     <SUITE FILE_PATH="coverage/All$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1546955051865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang" />
     <SUITE FILE_PATH="coverage/All$shangping.coverage" NAME="shangping Coverage Results" MODIFIED="1532497194308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zongheguanjia" />
+    <SUITE FILE_PATH="coverage/All$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1553075831484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
     <SUITE FILE_PATH="coverage/All$mobai.coverage" NAME="mobai Coverage Results" MODIFIED="1535593765608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiaochengxuzidonghau" />
     <SUITE FILE_PATH="coverage/All$excel.coverage" NAME="excel Coverage Results" MODIFIED="1546494908844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_all/Excel" />
     <SUITE FILE_PATH="coverage/All$china_dange_interface.coverage" NAME="china_dange_interface Coverage Results" MODIFIED="1552992902465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test" />
@@ -137,7 +143,7 @@
     <SUITE FILE_PATH="coverage/All$image.coverage" NAME="image Coverage Results" MODIFIED="1541412703633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image" />
     <SUITE FILE_PATH="coverage/All$ZongheguanjiaTest.coverage" NAME="ZongheguanjiaTest Coverage Results" MODIFIED="1532402079895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/All$get.coverage" NAME="get Coverage Results" MODIFIED="1546913249656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_all/INI" />
-    <SUITE FILE_PATH="coverage/All$sso_china.coverage" NAME="sso_china Coverage Results" MODIFIED="1553000517466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login_all" />
+    <SUITE FILE_PATH="coverage/All$sso_china.coverage" NAME="sso_china Coverage Results" MODIFIED="1553505546678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login_all" />
     <SUITE FILE_PATH="coverage/All$ES_data.coverage" NAME="ES_data Coverage Results" MODIFIED="1550560672072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/caiji_data_system/test_system" />
     <SUITE FILE_PATH="coverage/All$duoshanghu_dingdanyemian.coverage" NAME="duoshanghu_dingdanyemian Coverage Results" MODIFIED="1540465459765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guanjiaPlus" />
     <SUITE FILE_PATH="coverage/All$tianmao2.coverage" NAME="tianmao2 Coverage Results" MODIFIED="1551421842157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -155,22 +161,86 @@
     <SUITE FILE_PATH="coverage/All$baibaoxiang.coverage" NAME="baibaoxiang Coverage Results" MODIFIED="1551684733796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/All$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1553045650988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NoHtml" />
     <SUITE FILE_PATH="coverage/All$open_exe.coverage" NAME="open_exe Coverage Results" MODIFIED="1537524483786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/All$login_china.coverage" NAME="login_china Coverage Results" MODIFIED="1552996686568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_all/guanjiaPlus/china" />
-    <SUITE FILE_PATH="coverage/All$sso_test.coverage" NAME="sso_test Coverage Results" MODIFIED="1552984622070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login_all" />
+    <SUITE FILE_PATH="coverage/All$login_china.coverage" NAME="login_china Coverage Results" MODIFIED="1553250017514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_all/jiankong502" />
+    <SUITE FILE_PATH="coverage/All$sso_test.coverage" NAME="sso_test Coverage Results" MODIFIED="1553503400957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login_all" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="All" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NoHtml/test3.py">
+      <file leaf-file-name="sso_china.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login_all/sso_china.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="320">
+              <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sso_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login_all/sso_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_all/system/cpu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_all/system/cpu2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+              <folding>
+                <element signature="e#25#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_all/system/cpu3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_all/time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -188,9 +258,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>访问量统计</find>
-      <find>访问</find>
-      <find>None</find>
       <find>post</find>
       <find>zidingyi</find>
       <find>jubing</find>
@@ -218,6 +285,9 @@
       <find>openId</find>
       <find>OpenId</find>
       <find>osX135I4GC6M8n2a-6hsPaWDBreA</find>
+      <find>pc</find>
+      <find>ken</find>
+      <find>CPU</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -226,18 +296,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/selenium_all/login_all/plus_china_sso.py" />
-        <option value="$PROJECT_DIR$/selenium_all/login_all/plus_china.py" />
-        <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus_new.py" />
-        <option value="$PROJECT_DIR$/selenium_all/login_all/wchen_china_sso.py" />
-        <option value="$PROJECT_DIR$/selenium_all/login_all/plus_test_sso.py" />
-        <option value="$PROJECT_DIR$/selenium_all/login_all/wchen_test_sso.py" />
-        <option value="$PROJECT_DIR$/selenium_all/login_all/sso_test.py" />
-        <option value="$PROJECT_DIR$/selenium_all/login_all/sso_china.py" />
-        <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/dange.py" />
-        <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/china_login.py" />
-        <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/test_login.py" />
-        <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/caiji_data_system/test_system/ES_data.py" />
         <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/test/dange.py" />
         <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/plus_test/plus_new.py" />
         <option value="$PROJECT_DIR$/duoxiancheng_all/bingfa.py" />
@@ -250,7 +308,6 @@
         <option value="$PROJECT_DIR$/selenium_all/wechenjisu_40/login/login_china.py" />
         <option value="$PROJECT_DIR$/selenium_all/wechenjisu_40/case/只能物业_china.py" />
         <option value="$PROJECT_DIR$/baibaoxiang.py" />
-        <option value="$PROJECT_DIR$/login_all/ES_system.py" />
         <option value="$PROJECT_DIR$/python_all/time.py" />
         <option value="$PROJECT_DIR$/python_all/zidian.py" />
         <option value="$PROJECT_DIR$/a.txt" />
@@ -265,18 +322,31 @@
         <option value="$PROJECT_DIR$/baibaoxiangInterface.py" />
         <option value="$PROJECT_DIR$/test_old.py" />
         <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/test_old.py" />
-        <option value="$PROJECT_DIR$/login_all/sso_test.py" />
         <option value="$PROJECT_DIR$/test4.py" />
-        <option value="$PROJECT_DIR$/NoHtml/test1.py" />
         <option value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/china_dange_interface.py" />
         <option value="$PROJECT_DIR$/selenium_all/guanjiaPlus/china/plus20.py" />
         <option value="$PROJECT_DIR$/login_all/微信开放平台.py" />
         <option value="$PROJECT_DIR$/selenium_all/guanjiaPlus/china/login_china.py" />
         <option value="$PROJECT_DIR$/selenium_all/jiankong502/login_china.py" />
-        <option value="$PROJECT_DIR$/login_all/sso_china.py" />
+        <option value="$PROJECT_DIR$/selenium_all/jiankong502/baibaoxiang.py" />
+        <option value="$PROJECT_DIR$/login_all/ES_system.py" />
+        <option value="$PROJECT_DIR$/NoHtml/test5.py" />
+        <option value="$PROJECT_DIR$/NoHtml/test6.py" />
         <option value="$PROJECT_DIR$/NoHtml/test2.py" />
         <option value="$PROJECT_DIR$/NoHtml/test4.py" />
+        <option value="$PROJECT_DIR$/NoHtml/test7.py" />
+        <option value="$PROJECT_DIR$/NoHtml/test_on.py" />
         <option value="$PROJECT_DIR$/NoHtml/test3.py" />
+        <option value="$PROJECT_DIR$/NoHtml/test1.py" />
+        <option value="$PROJECT_DIR$/selenium_all/jiankong502/test_over.py" />
+        <option value="$PROJECT_DIR$/zonghe/login/login.py" />
+        <option value="$PROJECT_DIR$/zonghe/test/test.py" />
+        <option value="$PROJECT_DIR$/selenium_all/jiankong502/go.py" />
+        <option value="$PROJECT_DIR$/login_all/sso_test.py" />
+        <option value="$PROJECT_DIR$/login_all/sso_china.py" />
+        <option value="$PROJECT_DIR$/python_all/system/cpu2.py" />
+        <option value="$PROJECT_DIR$/python_all/system/cpu3.py" />
+        <option value="$PROJECT_DIR$/python_all/system/cpu.py" />
       </list>
     </option>
   </component>
@@ -340,57 +410,24 @@
             <path>
               <item name="All" type="b2602c69:ProjectViewProjectNode" />
               <item name="All" type="462c0819:PsiDirectoryNode" />
-              <item name="NoHtml" type="462c0819:PsiDirectoryNode" />
+              <item name="python_all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="All" type="b2602c69:ProjectViewProjectNode" />
+              <item name="All" type="462c0819:PsiDirectoryNode" />
+              <item name="python_all" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="All" type="b2602c69:ProjectViewProjectNode" />
               <item name="All" type="462c0819:PsiDirectoryNode" />
               <item name="selenium_all" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="All" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium_all" type="462c0819:PsiDirectoryNode" />
-              <item name="guanjiaPlus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="All" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium_all" type="462c0819:PsiDirectoryNode" />
-              <item name="guanjiaPlus" type="462c0819:PsiDirectoryNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="All" type="b2602c69:ProjectViewProjectNode" />
               <item name="All" type="462c0819:PsiDirectoryNode" />
               <item name="selenium_all" type="462c0819:PsiDirectoryNode" />
               <item name="jiankong502" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="All" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium_all" type="462c0819:PsiDirectoryNode" />
-              <item name="PC_zonghe_selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="All" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium_all" type="462c0819:PsiDirectoryNode" />
-              <item name="PC_zonghe_selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="All" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium_all" type="462c0819:PsiDirectoryNode" />
-              <item name="wechenjisu_40" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="All" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium_all" type="462c0819:PsiDirectoryNode" />
-              <item name="wechenjisu_40" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -409,18 +446,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\job\software\GitNew\object\hezi2\hezi\All\python_all\system" />
+      <recent name="D:\job\software\GitNew\object\hezi2\hezi\All\zonghe\login\pack" />
       <recent name="D:\job\software\GitNew\object\hezi2\hezi\All\beifen" />
       <recent name="D:\job\software\GitNew\object\hezi2\hezi\All\interface_all\interface_zonghe_Requests\case\test" />
       <recent name="G:\WDSeleniumObject\All\interface_all\interface_zonghe_Requests\case\plus\plus_test" />
-      <recent name="G:\WDSeleniumObject\All\interface_all\interface_zonghe_Requests\case\plus\test" />
-      <recent name="G:\WDSeleniumObject\All\interface_all\interface_zonghe_Requests\case\plus" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\job\software\GitNew\object\hezi2\hezi\All\zonghe\login" />
       <recent name="D:\job\software\GitNew\object\hezi2\hezi\All\selenium_all\jiankong502" />
       <recent name="D:\job\object\All\selenium_all\wechenjisu_40\case" />
       <recent name="G:\WDSeleniumObject\All\yanfa" />
       <recent name="G:\WDSeleniumObject\All" />
-      <recent name="G:\WDSeleniumObject\All\python_all" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -435,21 +472,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test3">
-    <configuration name="login_china" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.cpu2">
+    <configuration name="cpu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium_all/guanjiaPlus/china" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_all/system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="All" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_all/guanjiaPlus/china/login_china.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_all/system/cpu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cpu2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_all/system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="All" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_all/system/cpu2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cpu3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_all/system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="All" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_all/system/cpu3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -474,58 +549,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NoHtml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="All" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NoHtml/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NoHtml" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="All" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NoHtml/test3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NoHtml" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="All" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NoHtml/test4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -533,18 +570,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.sso_china" />
-      <item index="1" class="java.lang.String" itemvalue="Python.login_china" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cpu" />
+      <item index="3" class="java.lang.String" itemvalue="Python.cpu2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.cpu3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.cpu2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.cpu" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cpu3" />
         <item index="3" class="java.lang.String" itemvalue="Python.sso_china" />
-        <item index="4" class="java.lang.String" itemvalue="Python.login_china" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -583,14 +620,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45434782" sideWeight="0.4914712" order="13" side_tool="false" content_ui="tabs" x="1269" y="95" width="590" height="889" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18976545" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7173913" sideWeight="0.4914712" order="13" side_tool="false" content_ui="tabs" x="1269" y="95" width="590" height="889" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19402985" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="检验" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -602,6 +638,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -646,205 +683,92 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
+      <option name="time" value="41" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/selenium_all/PC_zonghe_selenium/case/lonely_applet_same_city_case.py">
+    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/china_dange_interface.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state relative-caret-position="528">
+          <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium_all/wechenjisu_40/case/智能物业.py" />
-    <entry file="file://$PROJECT_DIR$/selenium_all/wechenjisu_40/case/智能物业_ceshi.py">
+    <entry file="file://$PROJECT_DIR$/selenium_all/guanjiaPlus/china/login_china.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../software/python/install/Lib/site-packages/pymysql/cursors.py" />
-    <entry file="file://$PROJECT_DIR$/python_all/time.py">
+    <entry file="file://$PROJECT_DIR$/login_all/微信开放平台.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="47" column="15" lean-forward="true" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
+        <state relative-caret-position="352">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_all/cmd.py">
+    <entry file="file://$PROJECT_DIR$/selenium_all/guanjiaPlus/china/plus20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_all/zidian.py">
+    <entry file="file://$PROJECT_DIR$/login_all/sso_ceshi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pid.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MobileNew.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MultiDevices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-416">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/plus_test/dianpu_sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9328">
-          <caret line="424" column="0" lean-forward="false" selection-start-line="424" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_all/plus_china.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang/excel_xlwt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beifen/excel_xlwt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beifen/sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beifen/baibaoxiang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_all/plus_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <marker date="1552891277556" expanded="false" signature="0:32" ph="import ..." />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/beifen/BaibaoxiangMobile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="96" column="22" lean-forward="false" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../python/install/Lib/subprocess.py">
+    <entry file="file://$PROJECT_DIR$/selenium_all/jiankong502/baibaoxiang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="996" column="0" lean-forward="false" selection-start-line="996" selection-start-column="0" selection-end-line="996" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="135" column="36" lean-forward="false" selection-start-line="135" selection-start-column="36" selection-end-line="135" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/__init__.py">
+    <entry file="file://$PROJECT_DIR$/login_all/ES_system.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
+    <entry file="file://$PROJECT_DIR$/NoHtml/test5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
-          <caret line="880" column="20" lean-forward="false" selection-start-line="880" selection-start-column="20" selection-end-line="880" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="242">
+          <caret line="12" column="94" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="94" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
+    <entry file="file://$PROJECT_DIR$/NoHtml/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
+          <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test4.py">
+    <entry file="file://$PROJECT_DIR$/NoHtml/test6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#30#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="462">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tianmao.py">
+    <entry file="file://$PROJECT_DIR$/NoHtml/test4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/test_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="292" column="11" lean-forward="false" selection-start-line="292" selection-start-column="11" selection-end-line="292" selection-end-column="11" />
-          <folding>
-            <element signature="e#12#1189#0" expanded="false" />
-            <element signature="e#1192#6773#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/shoujihao.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -852,154 +776,132 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beifen/baibaoxiangInterface.py">
+    <entry file="file://$PROJECT_DIR$/NoHtml/test_on.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="103" column="38" lean-forward="false" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login_all/sso_test.py">
+    <entry file="file://$PROJECT_DIR$/NoHtml/test7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/plus_test/dange.py">
+    <entry file="file://$PROJECT_DIR$/NoHtml/test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <marker date="1552891277706" expanded="true" signature="343:402" ph="SELECT uniac... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="426:474" ph="SELECT * FRO... plus_store" />
-            <marker date="1552891277706" expanded="true" signature="490:531" ph="SELECT id FR... plus_store" />
-            <marker date="1552891277706" expanded="true" signature="553:613" ph="SELECT COUNT... plus_store" />
-            <marker date="1552891277706" expanded="true" signature="629:673" ph="SELECT id FR... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="699:937" ph="SELECT sum(a... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="955:1006" ph="SELECT COUNT... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="1136:1202" ph="SELECT COUNT... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="1326:1392" ph="SELECT COUNT... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="1733:1881" ph="SELECT m.typ... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="1983:2049" ph="SELECT * FRO... plus_users" />
-            <marker date="1552891277706" expanded="true" signature="2263:2360" ph="SELECT SUM(s... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="2604:2755" ph="SELECT SUM(s... plus_shop_sale_count_hour" />
-            <marker date="1552891277706" expanded="true" signature="2959:3071" ph="SELECT SUM(s... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="3302:3414" ph="SELECT SUM(s... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="3638:3732" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="3966:4075" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="4308:4417" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="5149:5276" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="5488:5645" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="5907:5999" ph="SELECT SUM(g... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="6193:6303" ph="SELECT goods... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="6428:6535" ph="SELECT SUM(g... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="6665:6772" ph="SELECT SUM(g... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="6956:7060" ph="SELECT SUM(g... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="7190:7294" ph="SELECT SUM(g... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="8258:8357" ph="SELECT SUM(v... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="8526:8622" ph="SELECT SUM(v... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="8784:8996" ph="SELECT COUNT... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="8868:8994" ph="SELECT uniac... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="9121:9333" ph="SELECT COUNT... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="9205:9331" ph="SELECT uniac... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="9460:9571" ph="SELECT SUM(v... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="9707:9818" ph="SELECT SUM(v... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="9948:10091" ph="SELECT creat... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="10678:10965" ph="SELECT SUM(s... plus_wxapp_visit" />
-            <marker date="1552891277706" expanded="true" signature="10836:10946" ph="SELECT uniac... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="11257:11570" ph="SELECT uniac... plus_wxapp_visit" />
-            <marker date="1552891277706" expanded="true" signature="11403:11513" ph="SELECT uniac... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="11710:11859" ph="SELECT `name... plus_users" />
-            <marker date="1552891277706" expanded="true" signature="11765:11858" ph="SELECT user_... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="12377:12760" ph="SELECT creat... plus_wxapp_visit" />
-            <marker date="1552891277706" expanded="true" signature="12629:12739" ph="SELECT uniac... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="13828:13922" ph="SELECT COUNT... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="14064:14158" ph="SELECT COUNT... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="14303:14400" ph="SELECT SUM(p... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="14619:14709" ph="SELECT SUM(o... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="14931:15043" ph="SELECT SUM(p... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="15278:15390" ph="SELECT SUM(p... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="15583:15688" ph="SELECT SUM(o... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="15924:16029" ph="SELECT SUM(o... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="16446:16544" ph="SELECT SUM(p... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="16759:16854" ph="SELECT SUM(p... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="17072:17185" ph="SELECT SUM(p... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="17413:17526" ph="SELECT SUM(p... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="17725:17835" ph="SELECT SUM(p... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="18070:18180" ph="SELECT SUM(p... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="18913:19025" ph="SELECT SUM(n... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="19264:19391" ph="SELECT SUM(n... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="19636:19764" ph="SELECT SUM(n... plus_shop_realtime_data" />
-            <marker date="1552891277706" expanded="true" signature="20096:20360" ph="SELECT a.uni... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="20370:20570" ph="SELECT a.uni... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="20889:20998" ph="SELECT SUM(n... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="21146:21288" ph="SELECT creat... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="21501:21643" ph="SELECT SUM(n... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="21804:21916" ph="SELECT SUM(c... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="22076:22221" ph="SELECT creat... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="22429:22575" ph="SELECT SUM(c... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="22759:22873" ph="SELECT SUM(c... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="23029:23176" ph="SELECT creat... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="23379:23527" ph="SELECT SUM(c... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="23696:23806" ph="SELECT SUM(i... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="23974:24118" ph="SELECT SUM(i... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="24293:24435" ph="SELECT creat... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="24662:24886" ph="SELECT SUM(c... plus_wechats_member_analysis" />
-            <marker date="1552891277706" expanded="true" signature="25295:25497" ph="SELECT COUNT... plus_middle_shop_order" />
-            <marker date="1552891277706" expanded="true" signature="25823:25953" ph="SELECT COUNT... plus_middle_shop_order" />
-            <marker date="1552891277706" expanded="true" signature="26204:26408" ph="SELECT COUNT... plus_middle_shop_order" />
-            <marker date="1552891277706" expanded="true" signature="26471:26630" ph="SELECT COUNT... plus_middle_shop_order" />
-            <marker date="1552891277706" expanded="true" signature="26894:27037" ph="SELECT SUM(a... plus_wxapp_member_active_keep" />
-            <marker date="1552891277706" expanded="true" signature="27215:27321" ph="SELECT COUNT... plus_middle_shop_goods" />
-            <marker date="1552891277706" expanded="true" signature="27529:27772" ph="SELECT SUM(s... plus_shop_goods_salevisit" />
-            <marker date="1552891277706" expanded="true" signature="27622:27723" ph="SELECT goods... plus_middle_shop_goods" />
-            <marker date="1552891277706" expanded="true" signature="32623:32815" ph="SELECT SUM(p... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="32967:33267" ph="SELECT SUM(p... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="37025:37400" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="37812:38200" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="38634:39022" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="39533:39671" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="39738:40139" ph="SELECT SUM(s... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="40935:41098" ph="SELECT provi... plus_province_sales" />
-            <marker date="1552891277706" expanded="true" signature="41417:41595" ph="SELECT provi... plus_province_sales" />
-            <marker date="1552891277706" expanded="true" signature="41928:42106" ph="SELECT provi... plus_province_sales" />
-            <marker date="1552891277706" expanded="true" signature="42372:42504" ph="SELECT creat... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="42684:42846" ph="SELECT creat... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="43130:43362" ph="SELECT uniac... plus_shop_sale_visit" />
-            <marker date="1552891277706" expanded="true" signature="43646:43960" ph="SELECT uniac... plus_wxapp_visit" />
-            <marker date="1552891277706" expanded="true" signature="43792:43902" ph="SELECT uniac... plus_shop_info" />
-            <marker date="1552891277706" expanded="true" signature="44365:44545" ph="SELECT SUM(v... plus_wxapp_visit" />
-            <marker date="1552891277706" expanded="true" signature="44432:44544" ph="SELECT uniac... plus_shop_info" />
-          </folding>
+        <state relative-caret-position="606">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/plus_test/plus_new.py">
+    <entry file="file://$PROJECT_DIR$/selenium_all/jiankong502/test_over.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="726">
+          <caret line="1267" column="5" lean-forward="false" selection-start-line="1267" selection-start-column="5" selection-end-line="1267" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/test/china_login.py">
+    <entry file="file://$PROJECT_DIR$/NoHtml/test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="396">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/test_login.py">
+    <entry file="file://$PROJECT_DIR$/zonghe/login/pack/ES_system.py" />
+    <entry file="file://$PROJECT_DIR$/zonghe/login/login.py" />
+    <entry file="file://$PROJECT_DIR$/zonghe/test/test.py" />
+    <entry file="file://$PROJECT_DIR$/selenium_all/jiankong502/login_china(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="82" column="27" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/PC_zonghe_selenium/case/lonely_applet_same_city_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/PC_zonghe_selenium/case/lonely_applet_catering_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/PC_zonghe_selenium/go/on_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/PC_zonghe_selenium/login/wchen_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/PC_zonghe_selenium/into/into_applet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/PC_zonghe_selenium/into/into_public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/SSO/sso.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1022">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_all/guanjia_plus_20/v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_all/shuzhi_leijia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_all/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_all/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_all/tongyong_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1007,22 +909,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/test1.py">
+    <entry file="file://$PROJECT_DIR$/beifen/excel_xlwt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beifen/baibaoxiangInterface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="103" column="38" lean-forward="false" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/plus/plus_test/plus_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26290">
+          <caret line="1200" column="12" lean-forward="false" selection-start-line="1200" selection-start-column="12" selection-end-line="1200" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang/excel_xlwt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang/baibaoxiangInterface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="67" column="24" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
           <folding>
-            <marker date="1552891277300" expanded="true" signature="427:489" ph="SELECT id FR... plus_user_position" />
-            <marker date="1552891277300" expanded="true" signature="539:653" ph="SELECT uniac... plus_shop_info" />
-            <marker date="1552891277300" expanded="true" signature="592:652" ph="SELECT user_... plus_users" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/case/test/china_dange_interface.py">
+    <entry file="file://$PROJECT_DIR$/selenium_all/login_all/plus_test_sso.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/login_all/sso_china.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/login_all/sso_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/jiankong502/go.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_all/jiankong502/login_china.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1035,122 +1000,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium_all/guanjiaPlus/china/login_china.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium_all/jiankong502/login_china(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="82" column="27" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium_all/jiankong502/login_china.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="69" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_all/ES_system.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_all/微信开放平台.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium_all/guanjiaPlus/china/plus20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login_all/sso_china.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login_all/sso_ceshi.py">
+    <entry file="file://$PROJECT_DIR$/login_all/sso_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="254">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NoHtml/test1.py">
+    <entry file="file://$PROJECT_DIR$/python_all/time.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="88">
+          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_all/system/cpu3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding>
-            <element signature="e#74#104#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_all/interface_zonghe_Requests/baibaoxiang/baibaoxiangInterface.py">
+    <entry file="file://$PROJECT_DIR$/python_all/system/cpu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="78" column="21" lean-forward="false" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium_all/jiankong502/baibaoxiang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="58" column="54" lean-forward="true" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NoHtml/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="440">
+          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NoHtml/test4.py">
+    <entry file="file://$PROJECT_DIR$/python_all/system/cpu2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NoHtml/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="572">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#25#34#0" expanded="true" />
           </folding>
         </state>
       </provider>

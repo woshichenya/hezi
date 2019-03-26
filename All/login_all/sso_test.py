@@ -19,15 +19,15 @@ wchen_vdong3={
     "password":"123456789",
 }
 #管家plus方新门店
-wchen_vdong4={
+wchen_plus={
     "username":"18871551666",
     "password":"1234567a",
 }
-plus_test={
+plus_boss={
     "username":"18871551001",
     "password":"1234567a",
 }
-plus_test2={
+plus_shop={
     "username":"18871551665",
     "password":"1234567a",
 }
@@ -36,10 +36,10 @@ plus_admin={
     "password":"12345678",
 }
 plus_test={
-    "username":"18000000354",
+    "username":"18000000368",
     "password":"1234567a",
 }
-ho=plus_test2
+ho=plus_boss
 go.Sid("inphoneinput","用户名",ho["username"],"输入用户名","无法输入用户名")
 go.Sid("pasword","密码",ho["password"],"输入密码","无法输入密码")
 # go.Cxpath("/html/body/div[1]/div[1]/div[1]/div[6]/button","登录","登录成功","登录失败")

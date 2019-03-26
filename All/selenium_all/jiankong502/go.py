@@ -1,6 +1,6 @@
-import login_china
+import selenium_all.jiankong502.login_china
 import time
-go=login_china.go
+go=selenium_all.jiankong502.login_china.go
 
 
 name_qun=['系统管理','小程序管理','商品管理','订单管理','用户管理','分销中心','内容管理','营销管理','应用专区','操作员管理','系统工具']

@@ -1,27 +1,74 @@
-#selenium:3.12.0
-#webdriver:2.38
-#chrome.exe: 65.0.3325.181（正式版本） （32 位）
-
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-chrome_options = Options()
+from pyvirtualdisplay import Display
+import time
+a = Display(visible=0, size=(800, 600))
+a.start()
+b = webdriver.ChromeOptions()
+b.add_argument('--headless')
+go = webdriver.Chrome(chrome_options=b)
+# go.get("http://www.baidu.com")
+# print(go.page_source)
 
 
-chrome_options.add_argument('--no-sandbox')#解决DevToolsActivePort文件不存在的报错
+wchen_vdong={
+    "username":"vdongshops",
+    "password":"1234567890",
+}
+url="http://sso.vdongchina.com"
 
-chrome_options.add_argument('window-size=1920x1080') #指定浏览器分辨率
-chrome_options.add_argument('--disable-gpu') #谷歌文档提到需要加上这个属性来规避bug
-chrome_options.add_argument('--hide-scrollbars') #隐藏滚动条, 应对一些特殊页面
-chrome_options.add_argument('blink-settings=imagesEnabled=false') #不加载图片, 提升速度
-chrome_options.add_argument('--headless') #浏览器不提供可视化页面. linux下如果系统不支持可视化不加这条会启动失败
-# chrome_options.binary_location = r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" #手动指定使用的浏览器位置
+def paizhao_pc(zhaopian_name):
+    zhaopian_name = zhaopian_name
+    a = "home\\chenya\\"
+    b = ".png"
+    Time = time.strftime("%Y-%m-%d--%H^%M^%S", time.localtime())
+    png_name = a + Time + zhaopian_name + b
+    go.get_screenshot_as_file(png_name)
+    return png_name
 
 
+go.get(url)
+paizhao_pc("打开页面")
+print(go.title)
+print(go.current_url)
+ho=wchen_vdong
+try:
+    sss = go.find_elements_by_tag_name("button")
+    for ss in sss:
+        print(ss.text)
+        if "登录" in ss.text :
+            ss.click()
+            paizhao_pc("首开点击登录")
+    k=go.find_element_by_id("inphoneinput")
+    k.send_keys(ho["username"])
+    # k.send_keys("ddd")
+    paizhao_pc("输入用户名")
+    print(go.find_element_by_id("inphoneinput").get_attribute("value"))
+    go.find_element_by_id("pasword").send_keys(ho["password"])
+    paizhao_pc("输入密码")
+    print(go.find_element_by_id("pasword").get_attribute("value"))
+    print(go.current_url)
+    sss=go.find_elements_by_tag_name("button")
+    print(len(sss))
+    for ss in sss:
+        print(ss.text)
+        if "登录" in ss.text :
+            ss.click()
+            # paizhao_pc("点击登录")
+            # ss.send_keys(Keys.ENTER)
+    paizhao_pc("点击div登录")
+except:
+    print("无法正常登录")
 
-driver=webdriver.Chrome(chrome_options=chrome_options)
-driver.get('https://www.baidu.com')
 
-print('hao123' in driver.page_source)
+# print(go.current_url)
+go.get("https://xiao.vdongchina.com/web/index.php?c=index&a=wxapp&")
+time.sleep(2)
+paizhao_pc("点击登录两秒后")
+go.refresh()
+# print(go.page_source)
+print(go.window_handles)
+# go.switch_to.windo)
+print(go.current_url)
 
-print(driver.page_source)
-driver.close() #切记关闭浏览器，回收资源
+go.quit()
+a.stop()

@@ -1,6 +1,7 @@
 from beifen import baibaoxiang
 
 url="http://39.107.239.18:5601/app/kibana#/dev_tools/console?_g=()"
+url_china="http://47.93.233.171:5601/app/kibana#/dev_tools/console?_g=()"
 go= baibaoxiang.geturl(url)
 
 

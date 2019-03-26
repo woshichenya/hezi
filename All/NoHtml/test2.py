@@ -7,9 +7,11 @@ wchen_vdong={
 }
 url="http://sso.vdongchina.com"
 go = webdriver.PhantomJS(executable_path='D:\job\software\phantomJs\phantomjs-2.1.1-windows\\bin\phantomjs.exe')#这里的executable_path填你phantomJS的路径
+go.get("https://xiao.vdongchina.com/web/index.php?c=index&a=wxapp&")
 print(go.current_url)
 go.get(url)
-
+print(go.current_url)
+go.get("https://xiao.vdongchina.com/web/index.php?c=index&a=wxapp&")
 print(go.title)
 print(go.current_url)
 ho=wchen_vdong

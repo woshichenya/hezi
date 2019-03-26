@@ -28,10 +28,10 @@ plus_admin={
     "password":"a12345678",
 }
 plus_test={
-    "username":"18871551772",
+    "username":"18000000370",
     "password":"1234567a",
 }
-ho=wchen_plus
+ho=plus_test
 go.Sid("inphoneinput","用户名",ho["username"],"输入用户名","无法输入用户名")
 go.Sid("pasword","密码",ho["password"],"输入密码","无法输入密码")
 # go.Cxpath("/html/body/div[1]/div[1]/div[1]/div[6]/button","登录","登录成功","登录失败")
