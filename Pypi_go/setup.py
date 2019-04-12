@@ -13,11 +13,11 @@ from setuptools import setup, find_packages
 
 setup(
     name="chenyabaibaoxiang",
-    version="3.0.3",
+    version="3.3.0",
     keywords=("dashu", "baibaoxiang"),
-    description="time and path tool",
-    long_description="time and path tool",
-    license="MIT Licence",
+    description="this is novice help",
+    long_description="Welcome to the testing family. This is my little help to you",
+    license="test Licence",
 
     url="https://www.baidu.com",
     author="dashu",

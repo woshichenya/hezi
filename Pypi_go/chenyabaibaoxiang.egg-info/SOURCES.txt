@@ -3,9 +3,11 @@ baibaoxiang/__init__.py
 baibaoxiang/baibaoxiang.py
 baibaoxiang/baibaoxiangInterface.py
 baibaoxiang/baibaoxiangMobile.py
+baibaoxiang/excel.py
 baibaoxiang/excel_xlwt.py
 baibaoxiang/femail.py
 baibaoxiang/sql.py
+baibaoxiang/sys_powel.py
 chenyabaibaoxiang.egg-info/PKG-INFO
 chenyabaibaoxiang.egg-info/SOURCES.txt
 chenyabaibaoxiang.egg-info/dependency_links.txt
