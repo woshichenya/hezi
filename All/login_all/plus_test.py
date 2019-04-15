@@ -1,11 +1,11 @@
 from beifen import baibaoxiang
 
-url="http://test-plus.vdongchina.com/"
+url="http://aplus.vdongchina.com"
 go= baibaoxiang.geturl(url)
 
 bosstao={
     "username":"vdong",
-    "pasword":"87654321"
+    "pasword":"vdongchina2018"
 }
 
 ho = bosstao

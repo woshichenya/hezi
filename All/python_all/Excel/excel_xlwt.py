@@ -19,4 +19,4 @@ for stu in stus:
     row+=1
 print(row,col)
 sheet1.write(11,0,'12344444')
-book.save('D:\linshi\\test22\stu_1.xls')#保存到当前目录下
+book.save('D:\linshi\stu_1.xls')#保存到当前目录下

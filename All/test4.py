@@ -1,15 +1,13 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-u="https://www.baidu.com"
-chrome_options=Options()
-chrome_options.add_argument('--headless')
-go=webdriver.Chrome(chrome_options=chrome_options)
-go.get(u)
-print(go.page_source)
-go.close()
-go.quit()
+# from baibaoxiang import baibaoxiangInterface
+# go=baibaoxiangInterface.Interface_go()
+# go.interface_go('D:\linshi\涉及鲜橙收入和金额收入接口.xlsx',"ttttt","D:\\linshi\\")
 
-# k=webdriver.Firefox()
-# k.close()
-# l=webdriver.Chrome()
-# l.get("http://www.baidu.com")
+
+class a:
+    def b(self,c,d=10):
+        print(c)
+        if d:
+            print(d)
+
+
+a().b(1,2)

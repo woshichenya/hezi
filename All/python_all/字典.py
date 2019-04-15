@@ -1,3 +1,4 @@
+import ast
 '''定义一个基础数组'''
 aa={
     "a":1,
@@ -33,8 +34,24 @@ print("添加一个元素：g=7",aa)
 aa.pop('g')
 print("删除一个元素：g",aa)
 
-
 t=[]
 t.append("a")
 print("给数组添加元素",t)
 x="{num:1,id:1,user_id:1}"
+
+k='{"num":1,"id":1,"user_id":1,"name":"ttt"}'
+print(k)
+k3=ast.literal_eval(k)
+print("直接拆分成字典：",k3)
+k=k[1:len(k)-1]
+print("去掉头尾：",k)
+k1=k.split(",")
+print("拆分成数组",k1)
+k6={}
+for k4 in k1:
+    print(k4)
+    k5=k4.split(":")
+    print(k5)
+    k6[k5[0]]=k5[1]
+print(k6)
+
