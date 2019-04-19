@@ -3,7 +3,7 @@ import time
 import xlrd
 #只能写不能读
 class InputExcel:
-    biaoti=["接口名称","接口地址","接口参数","响应状态","返回值"]
+    biaoti=["接口名称","接口地址","接口参数","响应状态","返回值","响应时间"]
     book = xlwt.Workbook()  # 新建一个excel
     sheet1 = book.add_sheet('case1_sheet')#添加一个sheet页
     book = xlwt.Workbook()  # 新建一个excel
@@ -29,6 +29,12 @@ class InputExcel:
         InputExcel.row += 1#行+1
         InputExcel.col = 0  # 控制列
         # print(a.row,a.col)
+
+    def input_excel_zidingyi(self,hang,k):
+        lie=0
+        for kk in k:
+            InputExcel.sheet1.write( hang,lie, kk)
+            lie += 1#列+1
 
 
     def end(self,address,name):
@@ -78,3 +84,4 @@ class OpenExcel:
             # print(xx)
             excel_list.append(xx)
         return excel_list
+

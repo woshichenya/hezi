@@ -8,6 +8,7 @@ baibaoxiang/excel_xlwt.py
 baibaoxiang/femail.py
 baibaoxiang/sql.py
 baibaoxiang/sys_powel.py
+baibaoxiang/xingneng.py
 chenyabaibaoxiang.egg-info/PKG-INFO
 chenyabaibaoxiang.egg-info/SOURCES.txt
 chenyabaibaoxiang.egg-info/dependency_links.txt

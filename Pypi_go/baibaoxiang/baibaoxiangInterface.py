@@ -4,6 +4,7 @@ from baibaoxiang import excel
 import ast
 
 
+
 class go:
     hang = 0
     lie = 0
@@ -30,27 +31,28 @@ class go:
                 print(r.text)
         else:
             print(name,"未成功*****************************************************************************")
-            try:
-                print(r.json())
-                fanhui = re.findall("\{\"code\":.*?.*", str(r.json()))
-                # print("这里是数组*************************",fanhui)
+            print(r.json())
+        try:
+            on_to_over_time = r.elapsed.total_seconds()
+            fanhui = re.findall("\{\"code\":.*?.*", str(r.json()))
+            # print("这里是数组*************************",fanhui)
+            if len(fanhui) == 0:
+                fanhui = re.findall("\{\'code\':.*?.*", str(r.json()))
                 if len(fanhui) == 0:
-                    fanhui = re.findall("\{\'code\':.*?.*", str(r.json()))
-                    if len(fanhui) == 0:
-                        fanhui = str(r.json())
-                jieguo = [name, url, str(data), r.status_code, fanhui]
-                go.excel_input.input_excel(jieguo)
-            except:
-                print("无法输出json，转换成输出text")
-                print(r.text)
-                fanhui = re.findall("\{\"code\":.*?.*", r.text)
-                # print("这里是数组*************************", fanhui)
+                    fanhui = str(r.json())
+            jieguo = [name, url, str(data), r.status_code, fanhui,on_to_over_time]
+            go.excel_input.input_excel(jieguo)
+        except:
+            print("无法输出json，转换成输出text")
+            print(r.text)
+            fanhui = re.findall("\{\"code\":.*?.*", r.text)
+            # print("这里是数组*************************", fanhui)
+            if len(fanhui) == 0:
+                fanhui = re.findall("\{\'code\':.*?.*", r.text)
                 if len(fanhui) == 0:
-                    fanhui = re.findall("\{\'code\':.*?.*", r.text)
-                    if len(fanhui) == 0:
-                        fanhui = r.text
-                jieguo = [name, url, str(data), r.status_code, fanhui]
-                go.excel_input.input_excel(jieguo)
+                    fanhui = r.text
+            jieguo = [name, url, str(data), r.status_code, fanhui]
+            go.excel_input.input_excel(jieguo)
         return r
 
     def get(self,url, data, header,name):
@@ -64,27 +66,28 @@ class go:
                 print(r.text)
         else:
             print(name,"未成功*****************************************************************************")
-            try:
-                print(r.json())
-                fanhui = re.findall("\{\"code\":.*?.*", str(r.json()))
-                # print("这里是数组*************************",fanhui)
+            print(r.json())
+        try:
+            on_to_over_time = r.elapsed.total_seconds()
+            fanhui = re.findall("\{\"code\":.*?.*", str(r.json()))
+            # print("这里是数组*************************",fanhui)
+            if len(fanhui) == 0:
+                fanhui = re.findall("\{\'code\':.*?.*", str(r.json()))
                 if len(fanhui) == 0:
-                    fanhui = re.findall("\{\'code\':.*?.*", str(r.json()))
-                    if len(fanhui) == 0:
-                        fanhui = str(r.json())
-                jieguo = [name, url, str(data), r.status_code, fanhui]
-                go.excel_input.input_excel(jieguo)
-            except:
-                print("无法输出json，转换成输出text")
-                print(r.text)
-                fanhui = re.findall("\{\"code\":.*?.*", r.text)
-                # print("这里是数组*************************", fanhui)
+                    fanhui = str(r.json())
+            jieguo = [name, url, str(data), r.status_code, fanhui]
+            go.excel_input.input_excel(jieguo)
+        except:
+            print("无法输出json，转换成输出text")
+            print(r.text)
+            fanhui = re.findall("\{\"code\":.*?.*", r.text)
+            # print("这里是数组*************************", fanhui)
+            if len(fanhui) == 0:
+                fanhui = re.findall("\{\'code\':.*?.*", r.text)
                 if len(fanhui) == 0:
-                    fanhui = re.findall("\{\'code\':.*?.*", r.text)
-                    if len(fanhui) == 0:
-                        fanhui = r.text
-                jieguo = [name, url, str(data), r.status_code, fanhui]
-                go.excel_input.input_excel(jieguo)
+                    fanhui = r.text
+            jieguo = [name, url, str(data), r.status_code, fanhui,on_to_over_time]
+            go.excel_input.input_excel(jieguo)
         return r
 
 
@@ -118,3 +121,5 @@ class Interface_go:
                 i.get(address,data,healer,name)
         # excel.InputExcel().end("D:\\linshi\\","特殊")
         excel.InputExcel().end(input_excel_address,input_excel_name)
+
+

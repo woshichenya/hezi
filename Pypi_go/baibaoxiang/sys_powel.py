@@ -1,9 +1,8 @@
 import psutil
-
-class powel_go():
-    def print_cpu(self,time_go):
-        if time_go =="":
-            time_go=0.3
+import os
+import time
+class powel_go:
+    def print_cpu(self):
         # print("cpu个数:\t",psutil.cpu_count())
         m_all = psutil.virtual_memory().total / 1024 / 1024
         # print("全部内存大小为%sM"%m_all)
@@ -13,7 +12,23 @@ class powel_go():
         # m=psutil.virtual_memory().available/1024/1024
         m = psutil.virtual_memory().used / 1024 / 1024
         # print("已使用内存大小为%sM,已用占比为%s"%(m,m/m_all*100),"%")
-        m_bl = psutil.virtual_memory().percent
-        print(" CPU使用率:\t" + str(psutil.cpu_percent(time_go)) + "%\t|\t内存使用百分比：", m_bl, "\t", m, "M/", m_all, "M")
+        neicun_bl = psutil.virtual_memory().percent
+        cpu=psutil.cpu_percent(0.1)
+        bingfa=os.system("netstat -nat|grep 80|wc -l")
+        cipan=psutil.disk_usage('/').percent
+        inter=psutil.net_io_counters()
+        # print(cpu)
+        t = time.strftime("%Y-%m-%d--%H:%M:%S", time.localtime())
+        print(t," CPU使用率:\t",psutil.cpu_percent()  ,"%\t|\t内存使用百分比：", neicun_bl, "%\t", m, "M/", m_all, "M\t当前访问人数：",bingfa,"磁盘使用",cipan,"%","网络使用情况",inter)
+        all={
+            "CPU使用率":cpu,
+            "内存使用百分比":neicun_bl,
+            "内存已使用":m,
+            "内存总量":m_all,
+            "访问人数":bingfa,
+            "磁盘使用百分比":cipan,
+            "网络使用情况":inter
+        }
+        return all
 
 
