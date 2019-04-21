@@ -24,6 +24,7 @@ class geturl():
             llq = webdriver.Firefox()
         except:
             llq = webdriver.Chrome()
+
     elif "linux" in sys.platform:
         from pyvirtualdisplay import Display
         a = Display(visible=0, size=(800, 600))
@@ -201,7 +202,7 @@ class geturl():
                 i += 1
                 time.sleep(1)
 
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_name(self.s).clear()
                 geturl.llq.find_element_by_name(self.s).send_keys(self.d)
@@ -275,7 +276,7 @@ class geturl():
                 i += 1
                 time.sleep(1)
 
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_id(self.s).clear()
                 geturl.llq.find_element_by_id(self.s).send_keys(self.d)
@@ -352,7 +353,7 @@ class geturl():
                 i += 1
                 time.sleep(1)
 
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_link_text(self.s).clear()
                 geturl.llq.find_element_by_link_text(self.s).send_keys(self.d)
@@ -402,7 +403,7 @@ class geturl():
                 i += 1
                 time.sleep(1)
 
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_xpath(self.s).clear()
                 geturl.llq.find_element_by_xpath(self.s).send_keys(self.d)
@@ -455,7 +456,7 @@ class geturl():
                 print(self.c, "不存在，执行等待操作，当前等待", i, "秒")
                 i += 1
                 time.sleep(1)
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_id(self.s).click()
                 geturl.num += 1
@@ -503,7 +504,7 @@ class geturl():
                 print(self.c, "不存在，执行等待操作，当前等待", i, "秒")
                 i += 1
                 time.sleep(1)
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_name(self.s).click()
                 geturl.num += 1
@@ -767,7 +768,7 @@ class geturl():
                 print(self.c, "不存在，执行等待操作，当前等待", i, "秒")
                 i += 1
                 time.sleep(1)
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_link_text(self.s).click()
                 geturl.num += 1
@@ -816,7 +817,7 @@ class geturl():
                 i += 1
                 time.sleep(1)
 
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_xpath(self.s).click()
                 ss = True
@@ -862,7 +863,7 @@ class geturl():
                 i += 1
                 time.sleep(1)
 
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_xpath(self.s).click()
                 ss = True
@@ -906,7 +907,7 @@ class geturl():
                 print(self.c, "不存在，执行等待操作，当前等待", i, "秒")
                 i += 1
                 time.sleep(1)
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_id(self.s).send_keys(Keys.ENTER)
                 ss = True
@@ -950,53 +951,9 @@ class geturl():
                 print(self.c, "不存在，执行等待操作，当前等待", i, "秒")
                 i += 1
                 time.sleep(1)
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_name(self.s).send_keys(Keys.ENTER)
-                ss = True
-            except Exception as e:
-                print("当前报错信息：",e)
-                ss = False
-            if ss == True:
-                print(self.a)
-            elif ss == False:
-                print(self.b)
-
-    def CText(self,shuxing,mingcheng,chenggong,shibai,Time=30):
-        self.s = shuxing
-        self.a = chenggong
-        self.b = shibai
-        self.c = mingcheng
-        geturl.num += 1
-        i = 1
-        xxx = 0
-        while xxx == 0 and i <= Time:
-            try:
-                article=geturl.llq.find_element_by_link_text(self.s)
-                xxx = 1
-                print(self.c, "存在，执行下一步操作")
-                ActionChains(geturl.llq).move_to_element(article).perform()
-                ii = 1
-                while xxx == 1 and ii <= Time:
-                    try:
-                        geturl.llq.find_element_by_link_text(self.s).send_keys(Keys.ENTER)
-                        ss = True
-                    except:
-                        ss = False
-                        time.sleep(1)
-                    if ss == True:
-                        print(self.a)
-                        xxx = 2
-                    elif ss == False:
-                        print(self.b)
-                    ii += 1
-            except:
-                print(self.c, "不存在，执行等待操作，当前等待", i, "秒")
-                i += 1
-                time.sleep(1)
-        if i == 31:
-            try:
-                geturl.llq.find_element_by_link_text(self.s).send_keys(Keys.ENTER)
                 ss = True
             except Exception as e:
                 print("当前报错信息：",e)
@@ -1035,6 +992,50 @@ class geturl():
                 time.sleep(1)
         if i== Time:
             print(game_over)
+
+    def CText(self,shuxing,mingcheng,chenggong,shibai,Time=30):
+        self.s = shuxing
+        self.a = chenggong
+        self.b = shibai
+        self.c = mingcheng
+        geturl.num += 1
+        i = 1
+        xxx = 0
+        while xxx == 0 and i <= Time:
+            try:
+                article=geturl.llq.find_element_by_link_text(self.s)
+                xxx = 1
+                print(self.c, "存在，执行下一步操作")
+                ActionChains(geturl.llq).move_to_element(article).perform()
+                ii = 1
+                while xxx == 1 and ii <= Time:
+                    try:
+                        geturl.llq.find_element_by_link_text(self.s).send_keys(Keys.ENTER)
+                        ss = True
+                    except:
+                        ss = False
+                        time.sleep(1)
+                    if ss == True:
+                        print(self.a)
+                        xxx = 2
+                    elif ss == False:
+                        print(self.b)
+                    ii += 1
+            except:
+                print(self.c, "不存在，执行等待操作，当前等待", i, "秒")
+                i += 1
+                time.sleep(1)
+        if i == Time:
+            try:
+                geturl.llq.find_element_by_link_text(self.s).send_keys(Keys.ENTER)
+                ss = True
+            except Exception as e:
+                print("当前报错信息：",e)
+                ss = False
+            if ss == True:
+                print(self.a)
+            elif ss == False:
+                print(self.b)
 
     def CText_partial_s_key(self,shuxing, name, ok, game_over,Time=30):
         i = 1
@@ -1095,7 +1096,7 @@ class geturl():
                 print(self.c, "不存在，执行等待操作，当前等待", i, "秒")
                 i += 1
                 time.sleep(1)
-        if i == 31:
+        if i == Time:
             try:
                 geturl.llq.find_element_by_xpath(self.s).send_keys(Keys.ENTER)
                 ss = True
@@ -1134,7 +1135,7 @@ class geturl():
                 print(self.mingcheng, "不存在，执行等待操作，当前等待", num, "秒")
                 num += 1
                 time.sleep(1)
-        if num == 31:
+        if num == Time:
             try:
                 s = geturl.llq.find_elements_by_name(self.shuxing)
                 '''使用数组定位的形式，对指定的控件进行点击'''

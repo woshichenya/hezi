@@ -1,7 +1,7 @@
 import requests
 import re
-from baibaoxiang import excel
 import ast
+from baibaoxiang import excel
 
 
 
@@ -106,7 +106,10 @@ class Interface_go:
         for x in t:
             # print(x)
             name=x[0]
-            address="http://"+x[1]+x[2]
+            if "http://" in x[1] or 'http://' in x[1]:
+                address = "http://" + x[1] + x[2]
+            else:
+                address="http://"+x[1]+x[2]
             # print(x[3])
             try:
                 data=ast.literal_eval(x[3])

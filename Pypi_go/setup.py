@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="chenyabaibaoxiang",
-    version="3.4.0",
+    version="3.4.1",
     keywords=("dashu", "baibaoxiang"),
     description="this is novice help",
     long_description="Welcome to the testing family. This is my little help to you",
