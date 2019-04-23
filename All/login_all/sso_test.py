@@ -43,7 +43,7 @@ plus_test={
     "username":"18000000376",
     "password":"1234567a",
 }
-ho=plus_daili
+ho=wchen_admin
 go.Sid("inphoneinput","用户名",ho["username"],"输入用户名","无法输入用户名")
 go.Sid("pasword","密码",ho["password"],"输入密码","无法输入密码")
 # go.Cxpath("/html/body/div[1]/div[1]/div[1]/div[6]/button","登录","登录成功","登录失败")
